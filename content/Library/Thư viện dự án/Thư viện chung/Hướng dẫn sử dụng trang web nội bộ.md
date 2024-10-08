@@ -22,7 +22,7 @@
    Giảm thiểu tối đa các folder trong ổ D
 
 
-   Tải file [<span style="font-weight:bold; color:rgb(251, 31, 255)">này</span>](https://drive.google.com/file/d/1cKcr7vYIGSbV-v775Z0RFF4M0pbqh9az/view?usp=drive_link) về.
+   Tải file [<span style="font-weight:bold; color:rgb(251, 31, 255)">này</span>](https://drive.google.com/file/d/1XROe-d8lknkXsD6qaPGESin-yUwcnAkh/view?usp=sharing) về.
 
 
    Giải nén file vừa tải ra ổ D
