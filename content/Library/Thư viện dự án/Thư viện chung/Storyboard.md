@@ -1,0 +1,2 @@
+1. [[Animation Projects/The Best Chicken/Production/Season 2/SS2Ep01-KhoBauCuaGranny/3-Storyboard & Animatic|The Best Chiken SS2Ep01-KhobaucuaGranny]]
+2. [[Animation Projects/Pan&Beri/Production/Season 2/SS2Ep02-NgaVaoLongDat/3-Storyboard & Animatic|Pan&Beri SS2Ep02-NgaVaoLongDat]]
