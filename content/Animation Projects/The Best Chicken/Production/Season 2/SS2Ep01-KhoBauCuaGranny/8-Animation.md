@@ -7,6 +7,8 @@
 * [[6-Layout động tác|Layout]]
 * [[Animation Projects/The Best Chicken/Production/Season 2/SS2Ep01-KhoBauCuaGranny/3-Storyboard & Animatic|Storyboard và Animatic]]
 * [[Library/Thư viện dự án/Thư viện các dự án/Data The Best Chicken/Notes/Phong cách Animation|Phong cách Animation]]
+* [[Animation Projects/The Best Chicken/Production/Season 2/SS2Ep01-KhoBauCuaGranny/5-Background|Background]]
+* [[Library/Thư viện dự án/Thư viện các dự án/Data The Best Chicken/Notes/Abstract background|Abstract background]]
 
 .
 
