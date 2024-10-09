@@ -3,7 +3,7 @@
 <span style="font-weight:bold; color:rgb(112, 48, 160)">Link: </span>[<span style="font-weight:bold; color:rgb(251, 31, 255)">Rigging Folder</span>](file:///D:%5CPROJECTS%5CPan&Beri%5C2.Production%5CSeason%202%5CSS2Ep02-NgaVaoLongDat%5C7.%20Rigging)
 
 <span style="font-weight:bold; color:rgb(0, 112, 192)">Tham khảo:</span>
-* [[6-Layout động tác|Layout]]
+* [[Animation Projects/Pan&Beri/Production/Season 2/SS2Ep02-NgaVaoLongDat/6-Layout động tác|Layout]]
 * [[Animation Projects/Pan&Beri/Production/Season 2/SS2Ep02-NgaVaoLongDat/3-Storyboard & Animatic|Storyboard và Animatic]]
 * [[Animation Projects/Pan&Beri/Project Setup/3-Nhân vật|Các nhân vật]]
 * [[Animation Projects/Pan&Beri/Project Setup/5-Props|Đạo cụ]]

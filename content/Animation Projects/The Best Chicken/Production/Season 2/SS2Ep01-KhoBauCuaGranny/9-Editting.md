@@ -4,7 +4,7 @@
 
 <span style="font-weight:bold; color:rgb(0, 112, 192)">Tham khảo:</span>
 * [[Animation Projects/The Best Chicken/Production/Season 2/SS2Ep01-KhoBauCuaGranny/3-Storyboard & Animatic|Storyboard và Animatic]]
-* [[8-Animation|Animation]]
+* [[Animation Projects/The Best Chicken/Production/Season 2/SS2Ep01-KhoBauCuaGranny/8-Animation|Animation]]
 
 .
 

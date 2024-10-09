@@ -4,7 +4,7 @@
 
 <span style="font-weight:bold; color:rgb(0, 112, 192)">Tham khảo:</span>
 * [[Animation Projects/Pan&Beri/Production/Season 2/SS2Ep02-NgaVaoLongDat/3-Storyboard & Animatic|Storyboard và Animatic]]
-* [[8-Animation|Animation]]
+* [[Animation Projects/Pan&Beri/Production/Season 2/SS2Ep02-NgaVaoLongDat/8-Animation|Animation]]
 
 .
 
