@@ -5,6 +5,7 @@
 <span style="font-weight:bold; color:rgb(0, 112, 192)">Tham khảo:</span>
 * [[Animation Projects/Pan&Beri/Production/Season 2/SS2Ep02-NgaVaoLongDat/3-Storyboard & Animatic|Storyboard và Animatic]]
 * [[Animation Projects/Pan&Beri/Production/Season 2/SS2Ep02-NgaVaoLongDat/5-Background|Background]]
+* [[Library/Thư viện dự án/Thư viện các dự án/Data Pan&Beri/Notes/Abstract background|Abstract background]]
 * [[Animation Projects/Pan&Beri/Project Setup/4-Bối cảnh|Bối cảnh chính]]
 * [[Animation Projects/Pan&Beri/Project Setup/3-Nhân vật|Các nhân vật]]
 * [[Animation Projects/Pan&Beri/Project Setup/5-Props|Đạo cụ]]

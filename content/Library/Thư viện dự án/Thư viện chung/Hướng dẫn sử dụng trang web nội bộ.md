@@ -89,4 +89,7 @@
    1. Gọn nhẹ, có khả năng chơi phát được video dạng Mp4 và MOV (2 định dạng sử dụng nhiều nhất trong quy trình). 
    2. Có thế xem từng Frame.
    3. Khi đi kèm với [codec](https://codecguide.com/download_kl.htm) có thể xem được thumbnail các file định dạng MOV. (Khi cài đặt chọn phần mềm phát video và âm thanh mặc định là PotPlayer)
-   
+
+8. <span style="font-weight:bold; color:rgb(0, 112, 192)">Script & Keyboard Shortcut moho</span>
+   <span style="font-weight:bold; color:rgb(112, 48, 160)">Link: </span>[<span style="font-weight:bold; color:rgb(251, 31, 255)">drive</span>](https://drive.google.com/file/d/1oy05PztTNk3QxMvBNnRB55259hvAqiFN/view?usp=sharing)
+
