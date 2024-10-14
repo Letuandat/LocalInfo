@@ -5,7 +5,7 @@
 <span style="font-weight:bold; color:rgb(0, 112, 192)">Tham khảo:</span>
 * [[Animation Projects/Pan&Beri/Production/Season 2/SS2Ep02-NgaVaoLongDat/3-Storyboard & Animatic|Storyboard và Animatic]]
 * [[Animation Projects/Pan&Beri/Production/Season 2/SS2Ep02-NgaVaoLongDat/8-Animation|Animation]]
-
+[PAN BERI _ DƯỚI LÒNG ĐẤT.mp4](file:///D:%5C1.%20Work%5CLon%20beo%5CSEASON%202%5CEp2%20ss2%20-%20RƠI%20VÀO%20LÒNG%20ĐẤT%5CPAN%20BERI%20_%20DƯỚI%20LÒNG%20ĐẤT.mp4)
 .
 
 .
