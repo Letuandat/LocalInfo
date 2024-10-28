@@ -1,13 +1,20 @@
-.
+---
+Type: Animation
+Project Name: Pan&Beri
+Season: "2"
+Episode: "01"
+Episode Name:
+---
 
-<span style="font-weight:bold; color:rgb(112, 48, 160)">Link: </span>[<span style="font-weight:bold; color:rgb(251, 31, 255)">Animation Folder</span>](file:///D:%5CPROJECTS%5CPan&Beri%5C2.Production%5CSeason%202%5CSS2Ep03-DuaXeBaBanh%5C8.Animation)
 
-<span style="font-weight:bold; color:rgb(0, 112, 192)">Tham khảo:</span>
-* [[Animation Projects/Pan&Beri/Project Setup/3-Nhân vật|Các nhân vật]]
-* [[Animation Projects/Pan&Beri/Production/Season 2/SS2Ep03-DuaXeBaBanh/6-Layout động tác|Layout]]
-* [[Animation Projects/Pan&Beri/Production/Season 2/SS2Ep03-DuaXeBaBanh/3-Storyboard & Animatic|Storyboard và Animatic]]
-* [[Library/Thư viện dự án/Thư viện các dự án/Data Pan&Beri/Notes/Phong cách Animation|Phong cách Animation]]
-* [[Library/Thư viện dự án/Thư viện các dự án/Data Pan&Beri/Notes/Abstract background|Abstract background]]
+<span style="font-weight:bold; color:rgb(112, 48, 160)">Link: </span>[<span style='font-weight:bold; color:rgb(160, 76, 225)'><span style="font-weight:bold; color:rgb(251, 31, 255)">Animation Folder</span></span>](file:///D:%5CPROJECTS%5CPan&Beri%5C2.Production%5CSeason%202%5CSS2Ep03-DuaXeBaBanh%5C8.Animation)
+
+<span style="font-weight:bold; color:rgb(0, 112, 192)">Tham khảo:</span>  
+* [[Animation Projects/Pan&Beri/Project Setup/3-Nhân vật|Các nhân vật]]  
+* [[Animation Projects/Pan&Beri/Production/Season 2/SS2Ep03-DuaXeBaBanh/6-Layout động tác|Layout]]  
+* [[Animation Projects/Pan&Beri/Production/Season 2/SS2Ep03-DuaXeBaBanh/3-Storyboard & Animatic|Storyboard và Animatic]]  
+* [[Library/Thư viện dự án/Thư viện các dự án/Data Pan&Beri/Notes/Phong cách Animation|Phong cách Animation]]  
+* [[Library/Thư viện dự án/Thư viện các dự án/Data Pan&Beri/Notes/Abstract background|Abstract background]]  
 * [[Animation Projects/Pan&Beri/Production/Season 2/SS2Ep03-DuaXeBaBanh/5-Background|Background]]
 
 .

@@ -1,6 +1,6 @@
 .
 
-<span style="font-weight:bold; color:rgb(112, 48, 160)">Link: </span>[<span style="font-weight:bold; color:rgb(251, 31, 255)">Publishing Folder</span>](file:///D:%5CPROJECTS%5CPan&Beri%5C2.Production%5CSeason%202%5CSS2Ep02-NgaVaoLongDat%5C11.Publishing)
+<span style="font-weight:bold; color:rgb(112, 48, 160)">Link: </span>[<span style='font-weight:bold; color:rgb(160, 76, 225)'><span style="font-weight:bold; color:rgb(251, 31, 255)">Publishing Folder</span></span>](file:///D:%5CPROJECTS%5CPan&Beri%5C2.Production%5CSeason%202%5CSS2Ep02-NgaVaoLongDat%5C11.Publishing)
 
 Gồm có: Thumbnail, Description, Hashtag
 
@@ -8,7 +8,7 @@ Gồm có: Thumbnail, Description, Hashtag
 
 .
 
-.
+.  
 <span style="font-weight:bold; color:rgb(112, 48, 160)">Link: </span>[<span style="font-weight:bold; color:rgb(251, 31, 255)">Video Final</span>]
 
 

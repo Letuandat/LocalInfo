@@ -1,0 +1,19 @@
+.
+
+<span style="font-weight:bold; color:rgb(112, 48, 160)">Link: </span>[<span style='font-weight:bold; color:rgb(160, 76, 225)'><span style="font-weight:bold; color:rgb(251, 31, 255)">Bảng thoại</span></span>](file:///D:%5CPROJECTS%5CThe%20Best%20Chicken%5C2.Production%5CSeason%201%5CSS1Ep05-CraneOrChiken%5C4.Thoại%5CSS1Ep05-CraneOrChiken-Dialogue%20Table.xlsx)
+
+<span style="font-weight:bold; color:rgb(112, 48, 160)">Link: </span>[<span style='font-weight:bold; color:rgb(255, 191, 0)'><span style="font-weight:bold; color:rgb(251, 31, 255)">Thoại Nháp</span></span>](file:///D:%5CPROJECTS%5CThe%20Best%20Chicken%5C2.Production%5CSeason%201%5CSS1Ep05-CraneOrChiken%5C4.Thoại%5CThoại%20nháp)
+
+<span style="font-weight:bold; color:rgb(112, 48, 160)">Link: </span>[<span style='font-weight:bold; color:rgb(255, 191, 0)'><span style="font-weight:bold; color:rgb(251, 31, 255)">Thoại chính thức</span></span>](file:///D:%5CPROJECTS%5CThe%20Best%20Chicken%5C2.Production%5CSeason%201%5CSS1Ep05-CraneOrChiken%5C4.Thoại%5CThoại%20chính%20thức)
+
+<span style="font-weight:bold; color:rgb(0, 112, 192)">Tham khảo:</span>  
+* [[Animation Projects/The Best Chicken/Production/Season 1/SS1Ep05-CraneOrChiken/1-Kịch bản|Kịch bản]]  
+* [[Animation Projects/The Best Chicken/Production/Season 1/SS1Ep05-CraneOrChiken/3-Storyboard & Animatic|Storyboard và Animatic]]
+
+.
+
+.
+
+.  
+## <span style="color:rgb(255, 0, 0)">Note</span> 
+(Date: Task, note)
