@@ -8,8 +8,8 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "INDEX",
-    pageTitleSuffix: "",
+    pageTitle: "TRANG CHỦ",
+    pageTitleSuffix: "Quản lý dự án hoạt hình",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
@@ -20,21 +20,21 @@ const config: QuartzConfig = {
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
-      fontOrigin: "Arial Unicode MS",
+      fontOrigin: "Arial Unicode MS Bold",
       cdnCaching: true,
       typography: {
-        header: "Arial Unicode MS",
+        header: "Arial Unicode MS Bold",
         body: "Arial Unicode MS",
         code: "IBM Plex Mono",
       },
       colors: {
         lightMode: {
-          light: "#faf8f8",
+          light: "#FFFFFF",
           lightgray: "#e5e5e5",
           gray: "#b8b8b8",
           darkgray: "#4e4e4e",
           dark: "#2b2b2b",
-          secondary: "#284b63",
+          secondary: "#22597e",
           tertiary: "#84a59d",
           highlight: "rgba(143, 159, 169, 0.15)",
           textHighlight: "#fff23688",

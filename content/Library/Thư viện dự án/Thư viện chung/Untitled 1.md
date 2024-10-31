@@ -1,4 +1,4 @@
-> [!abstract] Tóm lược
+> [!abstract] Tóm lược  
 > 
  
 
@@ -16,15 +16,15 @@
 
 
 > [!note] Ghi chú  
-> ừ thế đi
+> ừ thế đi  
 > > [!bug] Lỗi  
 > >Tại sao
 
-> [!success] Thành công
+> [!success] Thành công  
 > 
 
 
-thử xem nào
+thử xem nào  
 > [!warning] Cảnh báo  
 > Hãy cố gắng  
 > thôi
@@ -32,15 +32,15 @@ thử xem nào
 Thử xem nào.  
 Sao
 
-Tôi muốn bạn code cho tôi một plugin templater có chức năng sau: Nó sẽ format lại toàn bộ các note trong vault của <span style="color:#00ff00;">**tôi với chức năng sau**</span>
+Tôi muốn bạn code cho tôi một plugin templater có chức năng sau: Nó sẽ format lại toàn bộ các note trong vault của <span style="color:#00ff00;">**tôi với chức năng sau**</span>  
 : 
 1. 
-> [!todo] Cần làm
+> [!todo] Cần làm  
 > 
 
 
-> [!question] Câu hỏi
+> [!question] Câu hỏi  
 > 
 
-> [!failure] Thất bại
+> [!failure] Thất bại  
 > tưer

@@ -1,6 +1,6 @@
 .
 
-<span style="font-weight:bold; color:rgb(112, 48, 160)">Link:</span>  [<span style='font-weight:bold; color:rgb(160, 76, 225)'><span style="font-weight:bold; color:rgb(251, 31, 255)">Props</span></span>](file:///D:%5CPROJECTS%5CThe%20Best%20Chicken%5C1.Project%20Setup%5C3.Props%20Design)
+<span style="font-weight:bold; color:rgb(112, 48, 160)">Link:</span>  [<span style='font-weight:bold; color:rgb(255, 160, 51)'>Props</span>](file:///D:%5CPROJECTS%5CThe%20Best%20Chicken%5C1.%20Project%20Setup%5C3.%20Props%20Design)
 
 Danh mục đồ vật
 

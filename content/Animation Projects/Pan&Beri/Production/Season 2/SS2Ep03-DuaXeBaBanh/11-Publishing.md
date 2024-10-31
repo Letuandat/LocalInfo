@@ -1,16 +1,36 @@
+---
+tags:
+  - Production
+Stage: Publishsing
+Status: WIP
+Project-Name: Pan&Beri
+Episode-Name: SS2Ep03-DuaXeBaBanh
+Season: "1"
+---
+---  
+## <span style="font-weight:bold; color:rgb(34, 89, 126)">Publishing - Pan&Beri - SS2Ep03-DuaXeBaBanh</span>  
 .
 
-<span style="font-weight:bold; color:rgb(112, 48, 160)">Link: </span>[<span style='font-weight:bold; color:rgb(160, 76, 225)'><span style="font-weight:bold; color:rgb(251, 31, 255)">Publishing Folder</span></span>](file:///D:%5CPROJECTS%5CPan&Beri%5C2.Production%5CSeason%202%5CSS2Ep03-DuaXeBaBanh%5C11.Publishing)
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-monitor-play"><path d="M10 7.75a.75.75 0 0 1 1.142-.638l3.664 2.249a.75.75 0 0 1 0 1.278l-3.664 2.25a.75.75 0 0 1-1.142-.64z"/><path d="M12 17v4"/><path d="M8 21h8"/><rect x="2" y="3" width="20" height="14" rx="2"/></svg> <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-monitor-play"><path d="M10 7.75a.75.75 0 0 1 1.142-.638l3.664 2.249a.75.75 0 0 1 0 1.278l-3.664 2.25a.75.75 0 0 1-1.142-.64z"/><path d="M12 17v4"/><path d="M8 21h8"/><rect x="2" y="3" width="20" height="14" rx="2"/></svg> <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-monitor-play"><path d="M10 7.75a.75.75 0 0 1 1.142-.638l3.664 2.249a.75.75 0 0 1 0 1.278l-3.664 2.25a.75.75 0 0 1-1.142-.64z"/><path d="M12 17v4"/><path d="M8 21h8"/><rect x="2" y="3" width="20" height="14" rx="2"/></svg> 
 
-Gồm có: Thumbnail, Description, Hashtag
+---  
+> [!tip] Đường dẫn  
+>>[<span style='font-weight:bold; color:rgb(255, 160, 51)'>Publishing Folder</span>](file:///D:%5CPROJECTS%5CPan&Beri%5C2.%20Production%5CSeason%202%5CSS2Ep03-DuaXeBaBanh%5C11.%20Publishing)  
+>>[Final Video]
 
-.
+> [!example] Tham khảo  
+> 
 
-.
+> [!question]- Hướng dẫn  
+> * [[Training/Animation Workflow/Publishing/Publishing|Quy trình Publishing]]
 
-.  
-<span style="font-weight:bold; color:rgb(112, 48, 160)">Link: </span>[<span style="font-weight:bold; color:rgb(251, 31, 255)">Video Final</span>]
+> [!info] Thông tin  
+> Gồm có: Thumbnail, Description, Hashtag  
+> 
 
+> [!quote] Ghi chú  
+> > [!warning] Ghi chú 1  
+> 
 
-## <span style="color:rgb(255, 0, 0)">Note</span> 
-(Date: Task, note)
+---
+

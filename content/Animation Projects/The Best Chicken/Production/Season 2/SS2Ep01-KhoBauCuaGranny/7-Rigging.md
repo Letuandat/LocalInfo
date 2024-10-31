@@ -1,6 +1,6 @@
 .
 
-<span style="font-weight:bold; color:rgb(112, 48, 160)">Link: </span>[<span style='font-weight:bold; color:rgb(255, 191, 0)'><span style="font-weight:bold; color:rgb(251, 31, 255)">Rigging Folder</span></span>](file:///D:%5CPROJECTS%5CThe%20Best%20Chicken%5C2.Production%5CSeason%202%5CSS2Ep01-KhoBauCuaGranny%5C7.%20Rigging)
+<span style="font-weight:bold; color:rgb(112, 48, 160)">Link: </span>[<span style='font-weight:bold; color:rgb(255, 160, 51)'>Rigging Folder</span>](file:///D:%5CPROJECTS%5CThe%20Best%20Chicken%5C2.%20Production%5CSeason%202%5CSS2Ep01-KhoBauCuaGranny%5C7.%20Rigging)
 
 <span style="font-weight:bold; color:rgb(0, 112, 192)">Tham khảo:</span>  
 * [[Animation Projects/The Best Chicken/Production/Season 2/SS2Ep01-KhoBauCuaGranny/6-Layout động tác|Layout]]  

@@ -1,4 +1,4 @@
-<span style="font-weight:bold; color:rgb(112, 48, 160)">Link: </span>[<span style='font-weight:bold; color:rgb(160, 76, 225)'><span style="font-weight:bold; color:rgb(251, 31, 255)">Pitching</span></span>](file:///D:%5CPROJECTS%5CThe%20Best%20Chicken%5C1.Project%20Setup%5C6.Pitching)
+<span style="font-weight:bold; color:rgb(112, 48, 160)">Link: </span>[<span style='font-weight:bold; color:rgb(255, 160, 51)'>Pitching</span>](file:///D:%5CPROJECTS%5CThe%20Best%20Chicken%5C1.%20Project%20Setup%5C6.%20Pitching)
 
 .  
 ## <span style="color:rgb(0, 112, 192)">Đối tượng mục tiêu</span> 

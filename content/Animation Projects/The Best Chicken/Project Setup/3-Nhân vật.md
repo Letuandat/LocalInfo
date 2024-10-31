@@ -8,7 +8,7 @@
 |       **[[Library/Thư viện dự án/Thư viện các dự án/Data The Best Chicken/Notes/Wolf\|Wolf]]**       |                                                                                                  |                                                                                                  |                                                                                                        |                                                                                              |                                                                                                      |
 
 
-<span style="font-weight:bold; color:rgb(112, 48, 160)">Link: </span>[<span style='font-weight:bold; color:rgb(255, 191, 0)'><span style="font-weight:bold; color:rgb(251, 31, 255)">Moho Rigs</span></span>](file:///D:%5CPROJECTS%5CThe%20Best%20Chicken%5C1.Project%20Setup%5C4.Moho%20Rigs%5C2.%20Character%20Rigs)
+<span style="font-weight:bold; color:rgb(112, 48, 160)">Link: </span>[<span style='font-weight:bold; color:rgb(255, 160, 51)'>Moho Rigs</span>](file:///D:%5CPROJECTS%5CThe%20Best%20Chicken%5C1.%20Project%20Setup%5C4.%20Moho%20Rigs%5C2.%20Character%20Rigs)
 
 
 
