@@ -1,0 +1,36 @@
+---
+tags:
+  - Production
+Stage: Rigging
+Status: WIP
+Project-Name: The Best Chicken
+Episode-Name: SS1Ep05-CraneOrChiken
+Season: "1"
+---
+---  
+## <span style="font-weight:bold; color:rgb(34, 89, 126)">Rigging - The Best Chicken - SS1Ep05-CraneOrChiken</span>  
+.
+
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-person-standing"><circle cx="12" cy="5" r="1"/><path d="m9 20 3-6 3 6"/><path d="m6 8 6 2 6-2"/><path d="M12 10v4"/></svg> <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-person-standing"><circle cx="12" cy="5" r="1"/><path d="m9 20 3-6 3 6"/><path d="m6 8 6 2 6-2"/><path d="M12 10v4"/></svg> <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-person-standing"><circle cx="12" cy="5" r="1"/><path d="m9 20 3-6 3 6"/><path d="m6 8 6 2 6-2"/><path d="M12 10v4"/></svg>
+
+---  
+> [!tip] Đường dẫn  
+>* [<span style='font-weight:bold; color:rgb(255, 160, 51)'>Rigging Folder</span>](file:///D:%5CPROJECTS%5CThe%20Best%20Chicken%5C2.%20Production%5CSeason%201%5CSS1Ep05-CraneOrChiken%5C7.%20Rigging)
+
+> [!example] Tham khảo  
+> * [[Animation Projects/The Best Chicken/Production/Season 1/SS1Ep05-CraneOrChiken/6-Layout động tác|Layout]]  
+> * [[Animation Projects/The Best Chicken/Production/Season 1/SS1Ep05-CraneOrChiken/3-Storyboard & Animatic|Storyboard và Animatic]]  
+> * [[Animation Projects/The Best Chicken/Project Setup/4-Nhân vật|Các nhân vật]]  
+> * [[Animation Projects/The Best Chicken/Project Setup/6-Props|Đạo cụ]]
+
+> [!question]- Hướng dẫn  
+> * [[Training/Animation Workflow/Rigging/Rigging|Hướng dẫn Rig]]
+
+> [!info] Thông tin  
+> 
+
+> [!quote] Ghi chú  
+> > [!warning] Ghi chú 1  
+> 
+
+---
