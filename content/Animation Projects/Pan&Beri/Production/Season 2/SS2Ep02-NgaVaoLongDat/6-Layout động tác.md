@@ -15,7 +15,7 @@ Season: "1"
 
 ---  
 > [!tip] Đường dẫn  
->* [<span style='font-weight:bold; color:rgb(255, 160, 51)'>Layout</span>](file:///D:%5CPROJECTS%5CPan&Beri%5C2.%20Production%5CSeason%202%5CSS2Ep02-NgaVaoLongDat%5C6.%20Layout)
+>* [<span style='font-weight:bold; color:rgb(255, 191, 0)'><span style='font-weight:bold; color:rgb(255, 160, 51)'>Layout</span></span>](file:///D:%5CPROJECTS%5CPan&Beri%5C2.%20Production%5CSeason%202%5CSS2Ep02-NgaVaoLongDat%5C6.%20Layout)
 
 > [!example] Tham khảo  
 > * [[Animation Projects/Pan&Beri/Production/Season 2/SS2Ep02-NgaVaoLongDat/3-Storyboard & Animatic|Storyboard và Animatic]]  

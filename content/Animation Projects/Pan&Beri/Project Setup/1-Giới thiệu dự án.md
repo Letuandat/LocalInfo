@@ -13,7 +13,7 @@ Status: WIP
 
 ---  
 > [!tip] Đường dẫn  
->>[<span style='font-weight:bold; color:rgb(255, 160, 51)'>Pitching Folder</span>](file:///D:%5CPROJECTS%5CPan&Beri%5C1.%20Project%20Setup%5C6.%20Pitching)
+>>[<span style='font-weight:bold; color:rgb(255, 191, 0)'><span style='font-weight:bold; color:rgb(255, 160, 51)'>Pitching Folder</span></span>](file:///D:%5CPROJECTS%5CPan&Beri%5C1.%20Project%20Setup%5C6.%20Pitching)
 
 > [!example] Quick link  
 > * [[Library/Thư viện dự án/Thư viện các dự án/Data Pan&Beri/Notes/Format kịch bản|Format kịch bản]]

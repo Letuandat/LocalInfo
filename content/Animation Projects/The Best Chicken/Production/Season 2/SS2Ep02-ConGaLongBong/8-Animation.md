@@ -15,10 +15,10 @@ Season: "2"
 
 ---  
 > [!tip] Đường dẫn  
->* [<span style='font-weight:bold; color:rgb(255, 160, 51)'>Animation Folder</span>](file:///D:%5CPROJECTS%5CThe%20Best%20Chicken%5C2.%20Production%5CSeason%202%5CSS2Ep02-ConGaLongBong%5C8.%20Animation)
+>* [<span style='font-weight:bold; color:rgb(255, 191, 0)'><span style='font-weight:bold; color:rgb(255, 160, 51)'>Animation Folder</span></span>](file:///D:%5CPROJECTS%5CThe%20Best%20Chicken%5C2.%20Production%5CSeason%202%5CSS2Ep02-ConGaLongBong%5C8.%20Animation)
 
 > [!example] Tham khảo  
-> * [[Animation Projects/The Best Chicken/Project Setup/3-Nhân vật|Các nhân vật]]  
+> * [[Animation Projects/The Best Chicken/Project Setup/4-Nhân vật|Các nhân vật]]  
 > * [[Animation Projects/The Best Chicken/Production/Season 2/SS2Ep02-ConGaLongBong/6-Layout động tác|Layout]]  
 > * [[Animation Projects/The Best Chicken/Production/Season 2/SS2Ep02-ConGaLongBong/3-Storyboard & Animatic|Storyboard và Animatic]]  
 > * [[Library/Thư viện dự án/Thư viện các dự án/Data The Best Chicken/Notes/Animation Style|Animation Style]]  

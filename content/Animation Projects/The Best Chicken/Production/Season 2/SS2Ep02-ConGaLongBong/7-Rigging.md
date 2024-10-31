@@ -15,13 +15,13 @@ Season: "2"
 
 ---  
 > [!tip] Đường dẫn  
->* [<span style='font-weight:bold; color:rgb(255, 160, 51)'>Rigging Folder</span>](file:///D:%5CPROJECTS%5CThe%20Best%20Chicken%5C2.%20Production%5CSeason%202%5CSS2Ep02-ConGaLongBong%5C7.%20Rigging)
+>* [<span style='font-weight:bold; color:rgb(255, 191, 0)'><span style='font-weight:bold; color:rgb(255, 160, 51)'>Rigging Folder</span></span>](file:///D:%5CPROJECTS%5CThe%20Best%20Chicken%5C2.%20Production%5CSeason%202%5CSS2Ep02-ConGaLongBong%5C7.%20Rigging)
 
 > [!example] Tham khảo  
 > * [[Animation Projects/The Best Chicken/Production/Season 2/SS2Ep02-ConGaLongBong/6-Layout động tác|Layout]]  
 > * [[Animation Projects/The Best Chicken/Production/Season 2/SS2Ep02-ConGaLongBong/3-Storyboard & Animatic|Storyboard và Animatic]]  
-> * [[Animation Projects/The Best Chicken/Project Setup/3-Nhân vật|Các nhân vật]]  
-> * [[Animation Projects/The Best Chicken/Project Setup/5-Props|Đạo cụ]]
+> * [[Animation Projects/The Best Chicken/Project Setup/4-Nhân vật|Các nhân vật]]  
+> * [[Animation Projects/The Best Chicken/Project Setup/6-Props|Đạo cụ]]
 
 > [!question]- Hướng dẫn  
 > * [[Training/Animation Workflow/Rigging/Rigging|Hướng dẫn Rig]]

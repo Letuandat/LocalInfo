@@ -14,7 +14,7 @@ Status: WIP
 ---
 
 > [!tip] Đường dẫn  
->* [<span style='font-weight:bold; color:rgb(255, 160, 51)'>Folder Bối cảnh</span>](file:///D:%5CPROJECTS%5CPan&Beri%5C1.%20Project%20Setup%5C5.%20Art%20Design%5CBackground%5CBối%20cảnh%20chính)
+>* [<span style='font-weight:bold; color:rgb(255, 191, 0)'><span style='font-weight:bold; color:rgb(255, 160, 51)'>Folder Bối cảnh</span></span>](file:///D:%5CPROJECTS%5CPan&Beri%5C1.%20Project%20Setup%5C5.%20Art%20Design%5CBackground%5CBối%20cảnh%20chính)
 
 > [!example] Xem thêm  
 > * [[Library/Thư viện dự án/Thư viện các dự án/Data Pan&Beri/Notes/Background Style|Background Style]]

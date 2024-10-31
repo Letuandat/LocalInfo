@@ -15,17 +15,17 @@ Season: "2"
 
 ---  
 > [!tip] Đường dẫn  
->* [<span style='font-weight:bold; color:rgb(160, 76, 225)'>Storyboard PDF</span>](file:///D:%5CPROJECTS%5CThe%20Best%20Chicken%5C2.%20Production%5CSeason%202%5CSS2Ep02-ConGaLongBong%5C3.%20Storyboard%5CSS2Ep02-ConGaLongBong-Storyboard.pdf)  
->* [<span style='font-weight:bold; color:rgb(160, 76, 225)'>Animatic</span>](file:///D:%5CPROJECTS%5CThe%20Best%20Chicken%5C2.%20Production%5CSeason%202%5CSS2Ep02-ConGaLongBong%5C3.%20Storyboard%5CAnimatic%5CSS2Ep02-ConGaLongBong-Animatic.mov)  
->* [<span style='font-weight:bold; color:rgb(160, 76, 225)'>Storyboard ToonboomSBP</span>](file:///D:%5CPROJECTS%5CThe%20Best%20Chicken%5C2.%20Production%5CSeason%202%5CSS2Ep02-ConGaLongBong%5C3.%20Storyboard%5CSS2Ep02-ConGaLongBong-StoryboardPro%5CSS2Ep02-ConGaLongBong.sboard)  
->* [<span style='font-weight:bold; color:rgb(255, 160, 51)'>Storyboard Folder</span>](file:///D:%5CPROJECTS%5CThe%20Best%20Chicken%5C2.%20Production%5CSeason%202%5CSS2Ep02-ConGaLongBong%5C3.%20Storyboard)
+>* [<span style='font-weight:bold; color:rgb(160, 76, 225)'><span style='font-weight:bold; color:rgb(160, 76, 225)'>Storyboard PDF</span></span>](file:///D:%5CPROJECTS%5CThe%20Best%20Chicken%5C2.%20Production%5CSeason%202%5CSS2Ep02-ConGaLongBong%5C3.%20Storyboard%5CSS2Ep02-ConGaLongBong-Storyboard.pdf)  
+>* [<span style='font-weight:bold; color:rgb(160, 76, 225)'><span style='font-weight:bold; color:rgb(160, 76, 225)'>Animatic</span></span>](file:///D:%5CPROJECTS%5CThe%20Best%20Chicken%5C2.%20Production%5CSeason%202%5CSS2Ep02-ConGaLongBong%5C3.%20Storyboard%5CAnimatic%5CSS2Ep02-ConGaLongBong-Animatic.mov)  
+>* [<span style='font-weight:bold; color:rgb(160, 76, 225)'><span style='font-weight:bold; color:rgb(160, 76, 225)'>Storyboard ToonboomSBP</span></span>](file:///D:%5CPROJECTS%5CThe%20Best%20Chicken%5C2.%20Production%5CSeason%202%5CSS2Ep02-ConGaLongBong%5C3.%20Storyboard%5CSS2Ep02-ConGaLongBong-StoryboardPro%5CSS2Ep02-ConGaLongBong.sboard)  
+>* [<span style='font-weight:bold; color:rgb(255, 191, 0)'><span style='font-weight:bold; color:rgb(255, 160, 51)'>Storyboard Folder</span></span>](file:///D:%5CPROJECTS%5CThe%20Best%20Chicken%5C2.%20Production%5CSeason%202%5CSS2Ep02-ConGaLongBong%5C3.%20Storyboard)
 
 > [!example] Xem thêm  
 > * [[Animation Projects/The Best Chicken/Production/Season 2/SS2Ep02-ConGaLongBong/1-Kịch bản|Kịch bản]]  
-> * [[Animation Projects/The Best Chicken/Project Setup/3-Nhân vật|Các nhân vật]]  
-> * [[Animation Projects/The Best Chicken/Project Setup/4-Location|Bối cảnh]]  
+> * [[Animation Projects/The Best Chicken/Project Setup/4-Nhân vật|Các nhân vật]]  
+> * [[Animation Projects/The Best Chicken/Project Setup/5-Location|Bối cảnh]]  
 > * [[Animation Projects/The Best Chicken/Production/Season 2/SS2Ep02-ConGaLongBong/2-Concept|Concept]]  
-> * [[Animation Projects/The Best Chicken/Project Setup/5-Props|Đạo cụ]]
+> * [[Animation Projects/The Best Chicken/Project Setup/6-Props|Đạo cụ]]
 
 > [!question]- Hướng dẫn  
 > * [[Training/Animation Workflow/Storyboard & Animatic/Storyboard & Animatic|Cách làm Storyboard & Animatic]]

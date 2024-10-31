@@ -15,7 +15,7 @@ Season: "1"
 
 ---  
 > [!tip] Đường dẫn  
->* [<span style='font-weight:bold; color:rgb(255, 160, 51)'>Rigging Folder</span>](file:///D:%5CPROJECTS%5CPan&Beri%5C2.%20Production%5CSeason%202%5CSS2Ep03-DuaXeBaBanh%5C7.%20Rigging)
+>* [<span style='font-weight:bold; color:rgb(255, 191, 0)'><span style='font-weight:bold; color:rgb(255, 160, 51)'>Rigging Folder</span></span>](file:///D:%5CPROJECTS%5CPan&Beri%5C2.%20Production%5CSeason%202%5CSS2Ep03-DuaXeBaBanh%5C7.%20Rigging)
 
 > [!example] Tham khảo  
 > * [[Animation Projects/Pan&Beri/Production/Season 2/SS2Ep03-DuaXeBaBanh/6-Layout động tác|Layout]]  

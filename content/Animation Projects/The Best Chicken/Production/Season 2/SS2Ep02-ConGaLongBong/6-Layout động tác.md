@@ -15,15 +15,15 @@ Season: "2"
 
 ---  
 > [!tip] Đường dẫn  
->* [<span style='font-weight:bold; color:rgb(255, 160, 51)'>Layout</span>](file:///D:%5CPROJECTS%5CThe%20Best%20Chicken%5C2.%20Production%5CSeason%202%5CSS2Ep02-ConGaLongBong%5C6.%20Layout)
+>* [<span style='font-weight:bold; color:rgb(255, 191, 0)'><span style='font-weight:bold; color:rgb(255, 160, 51)'>Layout</span></span>](file:///D:%5CPROJECTS%5CThe%20Best%20Chicken%5C2.%20Production%5CSeason%202%5CSS2Ep02-ConGaLongBong%5C6.%20Layout)
 
 > [!example] Tham khảo  
 > * [[Animation Projects/The Best Chicken/Production/Season 2/SS2Ep02-ConGaLongBong/3-Storyboard & Animatic|Storyboard và Animatic]]  
 > * [[Animation Projects/The Best Chicken/Production/Season 2/SS2Ep02-ConGaLongBong/5-Background|Background]]  
 > * [[Library/Thư viện dự án/Thư viện các dự án/Data The Best Chicken/Notes/Abstract background|Abstract background]]  
-> * [[Animation Projects/The Best Chicken/Project Setup/4-Location|Bối cảnh chính]]  
-> * [[Animation Projects/The Best Chicken/Project Setup/3-Nhân vật|Các nhân vật]]  
-> * [[Animation Projects/The Best Chicken/Project Setup/5-Props|Đạo cụ]]  
+> * [[Animation Projects/The Best Chicken/Project Setup/5-Location|Bối cảnh chính]]  
+> * [[Animation Projects/The Best Chicken/Project Setup/4-Nhân vật|Các nhân vật]]  
+> * [[Animation Projects/The Best Chicken/Project Setup/6-Props|Đạo cụ]]  
 > * [[Library/Thư viện dự án/Thư viện các dự án/Data The Best Chicken/Notes/Special Effect|Special Effect]]  
 > 
 

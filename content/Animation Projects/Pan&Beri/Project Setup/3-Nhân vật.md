@@ -24,7 +24,7 @@ Status: WIP
 
 
 > [!tip] Đường dẫn  
->* [<span style='font-weight:bold; color:rgb(255, 160, 51)'>Moho Rigs Folder</span>](file:///D:%5CPROJECTS%5CPan&Beri%5C1.%20Project%20Setup%5C4.%20Moho%20Rigs%5C2.%20Character%20Rigs)
+>* [<span style='font-weight:bold; color:rgb(255, 191, 0)'><span style='font-weight:bold; color:rgb(255, 160, 51)'>Moho Rigs Folder</span></span>](file:///D:%5CPROJECTS%5CPan&Beri%5C1.%20Project%20Setup%5C4.%20Moho%20Rigs%5C2.%20Character%20Rigs)
 
 > [!question]- Hướng dẫn  
 >* [[Training/Animation Workflow/Character Design/Character Design|Hướng dẫn Thiết kế nhân vật]]  

@@ -16,9 +16,9 @@ Season: "2"
 ---  
 > [!tip] Đường dẫn  
 >*  [Bảng thoại Drive]  
->* [<span style='font-weight:bold; color:rgb(160, 76, 225)'>Bảng thoại Excel</span>](file:///D:%5CPROJECTS%5CThe%20Best%20Chicken%5C2.%20Production%5CSeason%202%5CSS2Ep02-ConGaLongBong%5C4.%20Thoại%5CSS2Ep02-ConGaLongBong-Dialogue%20Table.xlsx)  
->* [<span style='font-weight:bold; color:rgb(255, 160, 51)'>Folder Thoại Nháp</span>](file:///D:%5CPROJECTS%5CThe%20Best%20Chicken%5C2.%20Production%5CSeason%202%5CSS2Ep02-ConGaLongBong%5C4.%20Thoại%5CThoại%20nháp)  
->* [<span style='font-weight:bold; color:rgb(255, 160, 51)'>Folder Thoại chính thức</span>](file:///D:%5CPROJECTS%5CThe%20Best%20Chicken%5C2.%20Production%5CSeason%202%5CSS2Ep02-ConGaLongBong%5C4.%20Thoại%5CThoại%20chính%20thức)
+>* [<span style='font-weight:bold; color:rgb(160, 76, 225)'><span style='font-weight:bold; color:rgb(160, 76, 225)'>Bảng thoại Excel</span></span>](file:///D:%5CPROJECTS%5CThe%20Best%20Chicken%5C2.%20Production%5CSeason%202%5CSS2Ep02-ConGaLongBong%5C4.%20Thoại%5CSS2Ep02-ConGaLongBong-Dialogue%20Table.xlsx)  
+>* [<span style='font-weight:bold; color:rgb(255, 191, 0)'><span style='font-weight:bold; color:rgb(255, 160, 51)'>Folder Thoại Nháp</span></span>](file:///D:%5CPROJECTS%5CThe%20Best%20Chicken%5C2.%20Production%5CSeason%202%5CSS2Ep02-ConGaLongBong%5C4.%20Thoại%5CThoại%20nháp)  
+>* [<span style='font-weight:bold; color:rgb(255, 191, 0)'><span style='font-weight:bold; color:rgb(255, 160, 51)'>Folder Thoại chính thức</span></span>](file:///D:%5CPROJECTS%5CThe%20Best%20Chicken%5C2.%20Production%5CSeason%202%5CSS2Ep02-ConGaLongBong%5C4.%20Thoại%5CThoại%20chính%20thức)
 
 > [!example] Tham khảo  
 > * [[Animation Projects/The Best Chicken/Production/Season 2/SS2Ep02-ConGaLongBong/1-Kịch bản|Kịch bản]]  

@@ -13,7 +13,7 @@ Status: WIP
 
 ---  
 > [!tip] Đường dẫn  
-> * [<span style='font-weight:bold; color:rgb(160, 76, 225)'>Style Guide - Pan&Beri.pdf</span>](file:///D:%5CPROJECTS%5CPan&Beri%5C1.%20Project%20Setup%5C5.%20Art%20Design%5CStyle%20Guide%20-%20Pan&Beri.pdf)
+> * [<span style='font-weight:bold; color:rgb(160, 76, 225)'><span style='font-weight:bold; color:rgb(160, 76, 225)'>Style Guide - Pan&Beri.pdf</span></span>](file:///D:%5CPROJECTS%5CPan&Beri%5C1.%20Project%20Setup%5C5.%20Art%20Design%5CStyle%20Guide%20-%20Pan&Beri.pdf)
 
 > [!example] Các thành phần:  
 > * [[Library/Thư viện dự án/Thư viện các dự án/Data Pan&Beri/Notes/Palette màu|Palette màu]]  

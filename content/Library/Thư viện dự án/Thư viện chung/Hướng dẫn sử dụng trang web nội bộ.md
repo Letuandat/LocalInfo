@@ -1,7 +1,7 @@
 1. <span style="font-weight:bold; color:rgb(0, 112, 192)">Tải Firefox</span>
 
 
-   <span style="font-weight:bold; color:rgb(112, 48, 160)">Link: </span>[<span style='font-weight:bold; color:rgb(0, 176, 240)'>Firefox</span>](https://www.mozilla.org/en-US/firefox/download/thanks/)
+   <span style="font-weight:bold; color:rgb(112, 48, 160)">Link: </span>[<span style='font-weight:bold; color:rgb(0, 176, 240)'><span style='font-weight:bold; color:rgb(0, 176, 240)'>Firefox</span></span>](https://www.mozilla.org/en-US/firefox/download/thanks/)
 
 
    Tải link trên rồi cài đặt firefox.
@@ -10,7 +10,7 @@
 1. <span style="font-weight:bold; color:rgb(0, 112, 192)">Tải extension # Local Filesystem Links</span>
 
 
-   <span style="font-weight:bold; color:rgb(112, 48, 160)">Link: </span>[<span style='font-weight:bold; color:rgb(0, 176, 240)'>Local Filesystem Links</span>](https://addons.mozilla.org/en-US/firefox/addon/local-filesystem-links/)
+   <span style="font-weight:bold; color:rgb(112, 48, 160)">Link: </span>[<span style='font-weight:bold; color:rgb(0, 176, 240)'><span style='font-weight:bold; color:rgb(0, 176, 240)'>Local Filesystem Links</span></span>](https://addons.mozilla.org/en-US/firefox/addon/local-filesystem-links/)
 
 
    Tải link trên rồi cài đặt. 
@@ -22,16 +22,16 @@
    Giảm thiểu tối đa các folder trong ổ D
 
 
-   Tải file [<span style='font-weight:bold; color:rgb(0, 176, 240)'>này</span>](https://drive.google.com/file/d/1XROe-d8lknkXsD6qaPGESin-yUwcnAkh/view?usp=sharing) về.
+   Tải file [<span style='font-weight:bold; color:rgb(0, 176, 240)'><span style='font-weight:bold; color:rgb(0, 176, 240)'>này</span></span>](https://drive.google.com/file/d/1XROe-d8lknkXsD6qaPGESin-yUwcnAkh/view?usp=sharing) về.
 
 
    Giải nén file vừa tải ra ổ D
 
 
-   Mở folder [<span style='font-weight:bold; color:rgb(255, 160, 51)'>này</span>](file:///D:%5CApps%5CAutoOpenWith%5Cdist), chuột phải vào file AutoOpenWith.exe chọn Run as Administrator.
+   Mở folder [<span style='font-weight:bold; color:rgb(255, 191, 0)'><span style='font-weight:bold; color:rgb(255, 160, 51)'>này</span></span>](file:///D:%5CApps%5CAutoOpenWith%5Cdist), chuột phải vào file AutoOpenWith.exe chọn Run as Administrator.
 
 
-   Mở lần lượt file [<span style='font-weight:bold; color:rgb(160, 76, 225)'>rwCheck</span>](file:///D:%5CApps%5CAutoOpenWith%5Ctest%5CrwCheck.rw) và file [<span style='font-weight:bold; color:rgb(160, 76, 225)'>rwvCheck</span>](file:///D:%5CApps%5CAutoOpenWith%5Ctest%5CrwvCheck.rwv). Nêu thấy hiển thị hình ảnh là thành công.
+   Mở lần lượt file [<span style='font-weight:bold; color:rgb(160, 76, 225)'><span style='font-weight:bold; color:rgb(160, 76, 225)'>rwCheck</span></span>](file:///D:%5CApps%5CAutoOpenWith%5Ctest%5CrwCheck.rw) và file [<span style='font-weight:bold; color:rgb(160, 76, 225)'><span style='font-weight:bold; color:rgb(160, 76, 225)'>rwvCheck</span></span>](file:///D:%5CApps%5CAutoOpenWith%5Ctest%5CrwvCheck.rwv). Nêu thấy hiển thị hình ảnh là thành công.
 
 
 4. <span style="font-weight:bold; color:rgb(0, 112, 192)">Tải các file Data tương ứng từng dự án tham gia</span>
@@ -49,7 +49,7 @@
 5. <span style="font-weight:bold; color:rgb(0, 112, 192)">Bàn giao file</span>
 
 
-   Sử dụng phần mềm [<span style='font-weight:bold; color:rgb(160, 76, 225)'>CreateUpdateData</span>](file:///D:%5CApps%5CUpdate%20Data%20Create%5Cdist%5CCreateUpdateData%5CCreateUpdateData.exe) để tạo file zip lưu dữ liệu. Chọn Destination là D:/Update Data
+   Sử dụng phần mềm [<span style='font-weight:bold; color:rgb(160, 76, 225)'><span style='font-weight:bold; color:rgb(160, 76, 225)'>CreateUpdateData</span></span>](file:///D:%5CApps%5CUpdate%20Data%20Create%5Cdist%5CCreateUpdateData%5CCreateUpdateData.exe) để tạo file zip lưu dữ liệu. Chọn Destination là D:/Update Data
 
 
    Chọn Add Folder/File rồi chọn đường dẫn tới folder hoặc file cần nén. Tiếp tục chọn Add Folder/File để chọn thêm folder hoặc file khác. Sau khi chọn xong ấn nút Create Update File. File update-ngày-giờ.zip sẽ được tạo ra ở thư mục D:/Update Data. Đổi tên để đỡ nhầm lẫn, nhưng giữ nguyên -ngày-giờ.
@@ -82,14 +82,14 @@
    Không bắt buộc phải tải, có thể sử dụng các chương trình phát video khác nếu thích.
 
 
-   <span style="font-weight:bold; color:rgb(112, 48, 160)">Link tải: </span>[<span style='font-weight:bold; color:rgb(0, 176, 240)'>PotPlayer</span>](https://potplayer.org/en/potplayer-installer.html)
+   <span style="font-weight:bold; color:rgb(112, 48, 160)">Link tải: </span>[<span style='font-weight:bold; color:rgb(0, 176, 240)'><span style='font-weight:bold; color:rgb(0, 176, 240)'>PotPlayer</span></span>](https://potplayer.org/en/potplayer-installer.html)
 
 
    Ưu điểm: 
    1. Gọn nhẹ, có khả năng chơi phát được video dạng Mp4 và MOV (2 định dạng sử dụng nhiều nhất trong quy trình). 
    2. Có thế xem từng Frame.  
-   3. Khi đi kèm với [<span style='font-weight:bold; color:rgb(0, 176, 240)'>codec</span>](https://codecguide.com/download_kl.htm) có thể xem được thumbnail các file định dạng MOV. (Khi cài đặt chọn phần mềm phát video và âm thanh mặc định là PotPlayer)
+   3. Khi đi kèm với [<span style='font-weight:bold; color:rgb(0, 176, 240)'><span style='font-weight:bold; color:rgb(0, 176, 240)'>codec</span></span>](https://codecguide.com/download_kl.htm) có thể xem được thumbnail các file định dạng MOV. (Khi cài đặt chọn phần mềm phát video và âm thanh mặc định là PotPlayer)
 
 8. <span style="font-weight:bold; color:rgb(0, 112, 192)">Script & Keyboard Shortcut moho</span>  
-   <span style="font-weight:bold; color:rgb(112, 48, 160)">Link: </span>[<span style='font-weight:bold; color:rgb(0, 176, 240)'>drive</span>](https://drive.google.com/file/d/1oy05PztTNk3QxMvBNnRB55259hvAqiFN/view?usp=sharing)
+   <span style="font-weight:bold; color:rgb(112, 48, 160)">Link: </span>[<span style='font-weight:bold; color:rgb(0, 176, 240)'><span style='font-weight:bold; color:rgb(0, 176, 240)'>drive</span></span>](https://drive.google.com/file/d/1oy05PztTNk3QxMvBNnRB55259hvAqiFN/view?usp=sharing)
 

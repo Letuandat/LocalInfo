@@ -15,15 +15,15 @@ Season: "2"
 
 ---  
 > [!tip] Đường dẫn  
->* [<span style='font-weight:bold; color:rgb(255, 160, 51)'>Folder Background</span>](file:///D:%5CPROJECTS%5CThe%20Best%20Chicken%5C2.%20Production%5CSeason%202%5CSS2Ep02-ConGaLongBong%5C5.%20Background)
+>* [<span style='font-weight:bold; color:rgb(255, 191, 0)'><span style='font-weight:bold; color:rgb(255, 160, 51)'>Folder Background</span></span>](file:///D:%5CPROJECTS%5CThe%20Best%20Chicken%5C2.%20Production%5CSeason%202%5CSS2Ep02-ConGaLongBong%5C5.%20Background)
 
 > [!example] Tham khảo  
 > * [[Animation Projects/The Best Chicken/Production/Season 2/SS2Ep02-ConGaLongBong/3-Storyboard & Animatic|Storyboard và Animatic]]  
-> * [[Animation Projects/The Best Chicken/Project Setup/4-Location|Bối cảnh chính]]  
+> * [[Animation Projects/The Best Chicken/Project Setup/5-Location|Bối cảnh chính]]  
 > * [[Library/Thư viện dự án/Thư viện các dự án/Data The Best Chicken/Notes/Background Style|Background Style]]  
 > * [[Animation Projects/The Best Chicken/Production/Season 2/SS2Ep02-ConGaLongBong/2-Concept|Concept]]  
-> * [[Animation Projects/The Best Chicken/Project Setup/3-Nhân vật|Các nhân vật]] (nếu cần ghép nhân vật vào)  
-> * [[Animation Projects/The Best Chicken/Project Setup/5-Props|Đạo cụ]] (Nêu cần ghép đạo cụ vào)
+> * [[Animation Projects/The Best Chicken/Project Setup/4-Nhân vật|Các nhân vật]] (nếu cần ghép nhân vật vào)  
+> * [[Animation Projects/The Best Chicken/Project Setup/6-Props|Đạo cụ]] (Nêu cần ghép đạo cụ vào)
 
 > [!question]- Hướng dẫn  
 > * [[Training/Animation Workflow/Background/Background Painting|Cách làm Background]]

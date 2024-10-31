@@ -15,10 +15,10 @@ Season: "1"
 
 ---  
 > [!tip] Đường dẫn  
->* [<span style='font-weight:bold; color:rgb(160, 76, 225)'>Storyboard PDF</span>](file:///D:%5CPROJECTS%5CPan&Beri%5C2.%20Production%5CSeason%202%5CSS2Ep03-DuaXeBaBanh%5C3.%20Storyboard%5CSS2Ep03-DuaXeBaBanh-Storyboard.pdf)  
->* [<span style='font-weight:bold; color:rgb(160, 76, 225)'>Animatic</span>](file:///D:%5CPROJECTS%5CPan&Beri%5C2.%20Production%5CSeason%202%5CSS2Ep03-DuaXeBaBanh%5C3.%20Storyboard%5CAnimatic%5CSS2Ep03-DuaXeBaBanh-Animatic.mov)  
->* [<span style='font-weight:bold; color:rgb(160, 76, 225)'>Storyboard ToonboomSBP</span>](file:///D:%5CPROJECTS%5CPan&Beri%5C2.%20Production%5CSeason%202%5CSS2Ep03-DuaXeBaBanh%5C3.%20Storyboard%5CSS2Ep03-DuaXeBaBanh-StoryboardPro%5CSS2Ep03-DuaXeBaBanh.sboard)  
->* [<span style='font-weight:bold; color:rgb(255, 160, 51)'>Storyboard Folder</span>](file:///D:%5CPROJECTS%5CPan&Beri%5C2.%20Production%5CSeason%202%5CSS2Ep03-DuaXeBaBanh%5C3.%20Storyboard)
+>* [<span style='font-weight:bold; color:rgb(160, 76, 225)'><span style='font-weight:bold; color:rgb(160, 76, 225)'>Storyboard PDF</span></span>](file:///D:%5CPROJECTS%5CPan&Beri%5C2.%20Production%5CSeason%202%5CSS2Ep03-DuaXeBaBanh%5C3.%20Storyboard%5CSS2Ep03-DuaXeBaBanh-Storyboard.pdf)  
+>* [<span style='font-weight:bold; color:rgb(160, 76, 225)'><span style='font-weight:bold; color:rgb(160, 76, 225)'>Animatic</span></span>](file:///D:%5CPROJECTS%5CPan&Beri%5C2.%20Production%5CSeason%202%5CSS2Ep03-DuaXeBaBanh%5C3.%20Storyboard%5CAnimatic%5CSS2Ep03-DuaXeBaBanh-Animatic.mov)  
+>* [<span style='font-weight:bold; color:rgb(160, 76, 225)'><span style='font-weight:bold; color:rgb(160, 76, 225)'>Storyboard ToonboomSBP</span></span>](file:///D:%5CPROJECTS%5CPan&Beri%5C2.%20Production%5CSeason%202%5CSS2Ep03-DuaXeBaBanh%5C3.%20Storyboard%5CSS2Ep03-DuaXeBaBanh-StoryboardPro%5CSS2Ep03-DuaXeBaBanh.sboard)  
+>* [<span style='font-weight:bold; color:rgb(255, 191, 0)'><span style='font-weight:bold; color:rgb(255, 160, 51)'>Storyboard Folder</span></span>](file:///D:%5CPROJECTS%5CPan&Beri%5C2.%20Production%5CSeason%202%5CSS2Ep03-DuaXeBaBanh%5C3.%20Storyboard)
 
 > [!example] Xem thêm  
 > * [[Animation Projects/Pan&Beri/Production/Season 2/SS2Ep03-DuaXeBaBanh/1-Kịch bản|Kịch bản]]  

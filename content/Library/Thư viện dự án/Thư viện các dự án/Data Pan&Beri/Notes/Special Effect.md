@@ -14,9 +14,9 @@ Status: WIP
 ---
 
 > [!tip] Đường dẫn  
->* [<span style='font-weight:bold; color:rgb(160, 76, 225)'>Effect Preview</span>](file:///D:%5CPROJECTS%5CzShared%20Libraryz%5CEffect%20Set%5CRWV%5CEffect%20Set.rwv)  
->* [<span style='font-weight:bold; color:rgb(255, 160, 51)'>Effects Folder</span>](file:///D:%5CPROJECTS%5CzShared%20Libraryz%5CEffect%20Set)  
->* [<span style='font-weight:bold; color:rgb(160, 76, 225)'>Style Guide - Pan&Beri.pdf</span>](file:///D:%5CPROJECTS%5CPan&Beri%5C1.%20Project%20Setup%5C5.%20Art%20Design%5CStyle%20Guide%20-%20Pan&Beri.pdf)
+>* [<span style='font-weight:bold; color:rgb(160, 76, 225)'><span style='font-weight:bold; color:rgb(160, 76, 225)'>Effect Preview</span></span>](file:///D:%5CPROJECTS%5CzShared%20Libraryz%5CEffect%20Set%5CRWV%5CEffect%20Set.rwv)  
+>* [<span style='font-weight:bold; color:rgb(255, 191, 0)'><span style='font-weight:bold; color:rgb(255, 160, 51)'>Effects Folder</span></span>](file:///D:%5CPROJECTS%5CzShared%20Libraryz%5CEffect%20Set)  
+>* [<span style='font-weight:bold; color:rgb(160, 76, 225)'><span style='font-weight:bold; color:rgb(160, 76, 225)'>Style Guide - Pan&Beri.pdf</span></span>](file:///D:%5CPROJECTS%5CPan&Beri%5C1.%20Project%20Setup%5C5.%20Art%20Design%5CStyle%20Guide%20-%20Pan&Beri.pdf)
 
 
 > [!example] Xem thêm  

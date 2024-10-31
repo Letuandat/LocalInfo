@@ -13,7 +13,7 @@ Status: WIP
 
 ---  
 > [!tip] Đường dẫn  
-> * [<span style='font-weight:bold; color:rgb(160, 76, 225)'>Style Guide - PJ Template.pdf</span>](file:///D:%5CPROJECTS%5CPJ%20Template%5C1.%20Project%20Setup%5C5.%20Art%20Design%5CStyle%20Guide%20-%20PJ%20Template.pdf) 
+> * [<span style='font-weight:bold; color:rgb(160, 76, 225)'><span style='font-weight:bold; color:rgb(160, 76, 225)'>Style Guide - PJ Template.pdf</span></span>](file:///D:%5CPROJECTS%5CPJ%20Template%5C1.%20Project%20Setup%5C5.%20Art%20Design%5CStyle%20Guide%20-%20PJ%20Template.pdf) 
 
 > [!example] Tham khảo  
 > 

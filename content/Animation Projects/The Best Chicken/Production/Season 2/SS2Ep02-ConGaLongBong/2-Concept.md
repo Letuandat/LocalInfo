@@ -15,14 +15,14 @@ Season: "2"
 
 ---  
 > [!tip] Đường dẫn  
-> * [<span style='font-weight:bold; color:rgb(255, 160, 51)'>Folder Concept</span>](file:///D:%5CPROJECTS%5CThe%20Best%20Chicken%5C2.%20Production%5CSeason%202%5CSS2Ep02-ConGaLongBong%5C2.%20Concept)  
+> * [<span style='font-weight:bold; color:rgb(255, 191, 0)'><span style='font-weight:bold; color:rgb(255, 160, 51)'>Folder Concept</span></span>](file:///D:%5CPROJECTS%5CThe%20Best%20Chicken%5C2.%20Production%5CSeason%202%5CSS2Ep02-ConGaLongBong%5C2.%20Concept)  
 > 
 
 > [!example] Xem thêm  
-> * [[Animation Projects/The Best Chicken/Project Setup/3-Nhân vật|Các nhân vật]]  
-> * [[Animation Projects/The Best Chicken/Project Setup/4-Location|Bối cảnh]]  
+> * [[Animation Projects/The Best Chicken/Project Setup/4-Nhân vật|Các nhân vật]]  
+> * [[Animation Projects/The Best Chicken/Project Setup/5-Location|Bối cảnh]]  
 > * [[Animation Projects/The Best Chicken/Production/Season 2/SS2Ep02-ConGaLongBong/1-Kịch bản|Kịch bản]]  
-> * [[]]
+
 
 > [!question]- Hướng dẫn  
 > * [[Training/Animation Workflow/Concept/Concept Art|Cách làm Concept Art]]

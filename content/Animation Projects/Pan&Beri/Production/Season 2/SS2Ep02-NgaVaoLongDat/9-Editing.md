@@ -15,9 +15,9 @@ Season: "1"
 
 ---  
 > [!tip] Đường dẫn  
->* [<span style='font-weight:bold; color:rgb(160, 76, 225)'>Premiere Pro</span>](file:///D:%5CPROJECTS%5CPan&Beri%5C2.%20Production%5CSeason%202%5CSS2Ep02-NgaVaoLongDat%5C9.%20Editing%5CSS2Ep02-NgaVaoLongDat.prproj)  
->* [<span style='font-weight:bold; color:rgb(255, 160, 51)'>Clips Folder</span>](file:///D:%5CPROJECTS%5CPan&Beri%5C2.%20Production%5CSeason%202%5CSS2Ep02-NgaVaoLongDat%5C9.%20Editing%5CClips)  
->* [<span style='font-weight:bold; color:rgb(255, 160, 51)'>Output</span>](file:///D:%5CPROJECTS%5CPan&Beri%5C2.%20Production%5CSeason%202%5CSS2Ep02-NgaVaoLongDat%5C9.%20Editing%5COutput)
+>* [<span style='font-weight:bold; color:rgb(160, 76, 225)'><span style='font-weight:bold; color:rgb(160, 76, 225)'>Premiere Pro</span></span>](file:///D:%5CPROJECTS%5CPan&Beri%5C2.%20Production%5CSeason%202%5CSS2Ep02-NgaVaoLongDat%5C9.%20Editing%5CSS2Ep02-NgaVaoLongDat.prproj)  
+>* [<span style='font-weight:bold; color:rgb(255, 191, 0)'><span style='font-weight:bold; color:rgb(255, 160, 51)'>Clips Folder</span></span>](file:///D:%5CPROJECTS%5CPan&Beri%5C2.%20Production%5CSeason%202%5CSS2Ep02-NgaVaoLongDat%5C9.%20Editing%5CClips)  
+>* [<span style='font-weight:bold; color:rgb(255, 191, 0)'><span style='font-weight:bold; color:rgb(255, 160, 51)'>Output</span></span>](file:///D:%5CPROJECTS%5CPan&Beri%5C2.%20Production%5CSeason%202%5CSS2Ep02-NgaVaoLongDat%5C9.%20Editing%5COutput)
 
 > [!example] Tham khảo  
 > * [[Animation Projects/Pan&Beri/Production/Season 2/SS2Ep02-NgaVaoLongDat/3-Storyboard & Animatic|Storyboard và Animatic]]  

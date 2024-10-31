@@ -15,7 +15,7 @@ Season: "2"
 
 ---  
 > [!tip] Đường dẫn  
->>[<span style='font-weight:bold; color:rgb(255, 160, 51)'>Publishing Folder</span>](file:///D:%5CPROJECTS%5CThe%20Best%20Chicken%5C2.%20Production%5CSeason%202%5CSS2Ep02-ConGaLongBong%5C11.%20Publishing)  
+>>[<span style='font-weight:bold; color:rgb(255, 191, 0)'><span style='font-weight:bold; color:rgb(255, 160, 51)'>Publishing Folder</span></span>](file:///D:%5CPROJECTS%5CThe%20Best%20Chicken%5C2.%20Production%5CSeason%202%5CSS2Ep02-ConGaLongBong%5C11.%20Publishing)  
 >>[Final Video]
 
 > [!example] Tham khảo  

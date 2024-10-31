@@ -14,7 +14,7 @@ Status: WIP
 ---
 
 > [!tip] Đường dẫn  
->* [<span style='font-weight:bold; color:rgb(255, 160, 51)'>Props Design Folder</span>](file:///D:%5CPROJECTS%5CPan&Beri%5C1.%20Project%20Setup%5C3.%20Props%20Design)
+>* [<span style='font-weight:bold; color:rgb(255, 191, 0)'><span style='font-weight:bold; color:rgb(255, 160, 51)'>Props Design Folder</span></span>](file:///D:%5CPROJECTS%5CPan&Beri%5C1.%20Project%20Setup%5C3.%20Props%20Design)
 
 > [!example] Xem thêm  
 > * [[Animation Projects/Pan&Beri/Project Setup/3-Nhân vật|Nhân vật]]
