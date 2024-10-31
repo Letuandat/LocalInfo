@@ -1,7 +1,7 @@
 ---
 tags:
   - Production
-Stage: Thoại
+Stage: Layout
 Status: WIP
 Project-Name: The Best Chicken
 Episode-Name: SS2Ep02-ConGaLongBong

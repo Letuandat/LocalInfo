@@ -1,7 +1,7 @@
 ---
 tags:
   - Production
-Stage: Background
+Stage: Thoại
 Status: WIP
 Project-Name: The Best Chicken
 Episode-Name: SS2Ep01-KhoBauCuaGranny

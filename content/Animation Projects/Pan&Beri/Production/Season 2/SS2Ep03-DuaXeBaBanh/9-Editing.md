@@ -5,7 +5,7 @@ Stage: Editing
 Status: WIP
 Project-Name: Pan&Beri
 Episode-Name: SS2Ep03-DuaXeBaBanh
-Season: "1"
+Season: "2"
 ---
 ---  
 ## <span style="font-weight:bold; color:rgb(34, 89, 126)">Editing - Pan&Beri - SS2Ep03-DuaXeBaBanh </span>  
