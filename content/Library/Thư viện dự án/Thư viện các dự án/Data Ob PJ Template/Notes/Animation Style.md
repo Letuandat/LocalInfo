@@ -18,7 +18,7 @@ Status: WIP
 >* [<span style='font-weight:bold; color:rgb(160, 76, 225)'><span style='font-weight:bold; color:rgb(160, 76, 225)'>Style Guide - Ob PJ Template.pdf</span></span>](file:///D:%5CPROJECTS%5CPJ%20Template%5C1.%20Project%20Setup%5C5.%20Art%20Design%5CStyle%20Guide%20-%20PJ%20Template.pdf)
 
 > [!example] Xem thêm  
-> * [[Animation Projects/Ob PJ Template/Project Setup/3-Nhân vật|3-Nhân vật]]
+> * [[Animation Projects/Ob PJ Template/Project Setup/4-Nhân vật|4-Nhân vật]]
 
 > [!question]- Hướng dẫn  
 >* [[Training/Animation Workflow/Animation/Style trong Animation|Style trong Animation]]

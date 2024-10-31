@@ -18,7 +18,7 @@ Status: WIP
 
 > [!example] Xem thêm  
 > * [[Library/Thư viện dự án/Thư viện các dự án/Data Ob PJ Template/Notes/Palette màu|Palette màu]]  
-> * [[Animation Projects/Ob PJ Template/Project Setup/4-Location|Bối cảnh chính]]
+> * [[Animation Projects/Ob PJ Template/Project Setup/5-Location|Bối cảnh chính]]
 
 > [!info] Thông tin  
 > 
