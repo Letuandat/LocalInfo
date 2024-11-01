@@ -2,6 +2,7 @@
 tags:
   - ProjectSetup
 Project-Name: Pan&Beri
+Icon: Pan&Beri
 Stage: Format Kịch bản
 Status: WIP
 ---

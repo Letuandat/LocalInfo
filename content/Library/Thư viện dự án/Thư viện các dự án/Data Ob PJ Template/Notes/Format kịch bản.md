@@ -2,6 +2,7 @@
 tags:
   - ProjectSetup
 Project-Name: Ob PJ Template
+Icon: Ob PJ Template
 Stage: Format Kịch bản
 Status: WIP
 ---

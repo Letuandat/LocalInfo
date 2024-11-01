@@ -2,6 +2,7 @@
 tags:
   - ProjectSetup
 Project-Name: The Best Chicken
+Icon: The Best Chicken
 Stage: Props Design
 Status: WIP
 ---
@@ -14,10 +15,10 @@ Status: WIP
 ---
 
 > [!tip] Đường dẫn  
->* [<span style='font-weight:bold; color:rgb(255, 191, 0)'><span style='font-weight:bold; color:rgb(255, 160, 51)'>Props Design Folder</span></span>](file:///D:%5CPROJECTS%5CThe%20Best%20Chicken%5C1.%20Project%20Setup%5C3.%20Props%20Design)
+>* [<span style='font-weight:bold; color:rgb(255, 160, 51)'>Props Design Folder</span>](file:///D:%5CPROJECTS%5CThe%20Best%20Chicken%5C1.%20Project%20Setup%5C3.%20Props%20Design)
 
 > [!example] Xem thêm  
-> * [[Animation Projects/The Best Chicken/Project Setup/4-Nhân vật|Nhân vật]]
+> * <span style='font-weight:bold; color:rgb(34, 89, 126)'><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-person-standing"><circle cx="12" cy="5" r="1"/><path d="m9 20 3-6 3 6"/><path d="m6 8 6 2 6-2"/><path d="M12 10v4"/></svg></span> [[Animation Projects/The Best Chicken/Project Setup/4-Nhân vật|Nhân vật]]
 
 > [!question]- Hướng dẫn  
 >* 

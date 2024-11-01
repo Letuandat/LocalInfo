@@ -2,6 +2,7 @@
 tags:
   - ProjectSetup
 Project-Name: The Best Chicken
+Icon: The Best Chicken
 Stage: Art Style
 Status: WIP
 ---
@@ -13,7 +14,7 @@ Status: WIP
 
 ---  
 > [!tip] Đường dẫn  
-> * [<span style='font-weight:bold; color:rgb(160, 76, 225)'><span style='font-weight:bold; color:rgb(160, 76, 225)'>Style Guide - The Best Chicken.pdf</span></span>](file:///D:%5CPROJECTS%5CThe%20Best%20Chicken%5C1.%20Project%20Setup%5C5.%20Art%20Design%5CStyle%20Guide%20-%20The%20Best%20Chicken.pdf) 
+> * [<span style='font-weight:bold; color:rgb(160, 76, 225)'>Style Guide - The Best Chicken.pdf</span>](file:///D:%5CPROJECTS%5CThe%20Best%20Chicken%5C1.%20Project%20Setup%5C5.%20Art%20Design%5CStyle%20Guide%20-%20The%20Best%20Chicken.pdf) 
 
 > [!example] Tham khảo  
 > 

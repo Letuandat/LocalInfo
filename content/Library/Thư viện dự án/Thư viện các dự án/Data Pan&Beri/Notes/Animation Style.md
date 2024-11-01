@@ -2,6 +2,7 @@
 tags:
   - ProjectSetup
 Project-Name: Pan&Beri
+Icon: Pan&Beri
 Stage: Art Style
 Status: WIP
 ---
@@ -14,11 +15,11 @@ Status: WIP
 ---
 
 > [!tip] Đường dẫn  
->* [<span style='font-weight:bold; color:rgb(160, 76, 225)'><span style='font-weight:bold; color:rgb(160, 76, 225)'>Animation Demo</span></span>](file:///D:%5CPROJECTS%5CPan&Beri%5C1.%20Project%20Setup%5CLibrary%5CAnimation%20demo%5CAnimation%20Demo.mp4)  
->* [<span style='font-weight:bold; color:rgb(160, 76, 225)'><span style='font-weight:bold; color:rgb(160, 76, 225)'>Style Guide - Pan&Beri.pdf</span></span>](file:///D:%5CPROJECTS%5CPan&Beri%5C1.%20Project%20Setup%5C5.%20Art%20Design%5CStyle%20Guide%20-%20Pan&Beri.pdf)
+>* [<span style='font-weight:bold; color:rgb(160, 76, 225)'>Animation Demo</span>](file:///D:%5CPROJECTS%5CPan&Beri%5C1.%20Project%20Setup%5C5.%20Art%20Design%5CAnimation%20Design%5CAnimation%20demo%5CAnimation%20Demo.mp4)  
+>* [<span style='font-weight:bold; color:rgb(160, 76, 225)'>Style Guide - Pan&Beri.pdf</span>](file:///D:%5CPROJECTS%5CPan&Beri%5C1.%20Project%20Setup%5C5.%20Art%20Design%5CStyle%20Guide%20-%20Pan&Beri.pdf)
 
 > [!example] Xem thêm  
-> * [[Animation Projects/Pan&Beri/Project Setup/3-Nhân vật|3-Nhân vật]]
+> * <span style='font-weight:bold; color:rgb(34, 89, 126)'><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-person-standing"><circle cx="12" cy="5" r="1"/><path d="m9 20 3-6 3 6"/><path d="m6 8 6 2 6-2"/><path d="M12 10v4"/></svg></span> [[Animation Projects/Pan&Beri/Project Setup/4-Nhân vật|Nhân vật]]  
 
 > [!question]- Hướng dẫn  
 >* [[Training/Animation Workflow/Animation/Style trong Animation|Style trong Animation]]

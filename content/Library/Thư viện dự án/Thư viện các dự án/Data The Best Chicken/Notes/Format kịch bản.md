@@ -2,6 +2,7 @@
 tags:
   - ProjectSetup
 Project-Name: The Best Chicken
+Icon: The Best Chicken
 Stage: Format Kịch bản
 Status: WIP
 ---

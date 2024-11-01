@@ -6,6 +6,7 @@ Stage: Kịch Bản
 Status: WIP
 Project-Name: The Best Chicken
 Episode-Name: SS1Ep05-CraneOrChiken
+Icon: SS1Ep05-CraneOrChiken
 Season: "1"
 ---
 ---  
@@ -22,8 +23,8 @@ Season: "1"
 
 
 > [!example] Xem thêm  
-> * [[Animation Projects/The Best Chicken/Project Setup/4-Nhân vật|Các nhân vật]]  
-> * [[Library/Thư viện dự án/Thư viện các dự án/Data The Best Chicken/Notes/Format kịch bản|Format kịch bản]]
+> * <span style='font-weight:bold; color:rgb(34, 89, 126)'><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-person-standing"><circle cx="12" cy="5" r="1"/><path d="m9 20 3-6 3 6"/><path d="m6 8 6 2 6-2"/><path d="M12 10v4"/></svg></span> [[Animation Projects/The Best Chicken/Project Setup/4-Nhân vật|Các nhân vật]]  
+> * <span style='font-weight:bold; color:rgb(34, 89, 126)'><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-scroll-text"><path d="M15 12h-5"/><path d="M15 8h-5"/><path d="M19 17V5a2 2 0 0 0-2-2H4"/><path d="M8 21h12a2 2 0 0 0 2-2v-1a1 1 0 0 0-1-1H11a1 1 0 0 0-1 1v1a2 2 0 1 1-4 0V5a2 2 0 1 0-4 0v2a1 1 0 0 0 1 1h3"/></svg></span> [[Library/Thư viện dự án/Thư viện các dự án/Data The Best Chicken/Notes/Format kịch bản|Format kịch bản]]
 
 > [!question]- Hướng dẫn  
 > * [[Training/Animation Workflow/Kịch bản/Kịch bản|Cách viết kịch bản]]

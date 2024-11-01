@@ -5,7 +5,8 @@ Stage: Publishsing
 Status: WIP
 Project-Name: The Best Chicken
 Episode-Name: SS2Ep02-ConGaLongBong
-Season: "2"
+Icon: SS2Ep02-ConGaLongBong
+Season: "1"
 ---
 ---  
 ## <span style="font-weight:bold; color:rgb(34, 89, 126)">Publishing - The Best Chicken - SS2Ep02-ConGaLongBong</span>  
@@ -15,7 +16,7 @@ Season: "2"
 
 ---  
 > [!tip] Đường dẫn  
->>[<span style='font-weight:bold; color:rgb(255, 191, 0)'><span style='font-weight:bold; color:rgb(255, 160, 51)'>Publishing Folder</span></span>](file:///D:%5CPROJECTS%5CThe%20Best%20Chicken%5C2.%20Production%5CSeason%202%5CSS2Ep02-ConGaLongBong%5C11.%20Publishing)  
+>>[<span style='font-weight:bold; color:rgb(255, 160, 51)'>Publishing Folder</span>](file:///D:%5CPROJECTS%5CThe%20Best%20Chicken%5C2.%20Production%5CSeason%202%5CSS2Ep02-ConGaLongBong%5C11.%20Publishing)  
 >>[Final Video]
 
 > [!example] Tham khảo  

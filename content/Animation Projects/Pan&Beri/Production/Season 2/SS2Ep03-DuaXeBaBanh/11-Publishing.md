@@ -5,7 +5,8 @@ Stage: Publishsing
 Status: WIP
 Project-Name: Pan&Beri
 Episode-Name: SS2Ep03-DuaXeBaBanh
-Season: "2"
+Icon: SS2Ep03-DuaXeBaBanh
+Season: "1"
 ---
 ---  
 ## <span style="font-weight:bold; color:rgb(34, 89, 126)">Publishing - Pan&Beri - SS2Ep03-DuaXeBaBanh</span>  
@@ -15,7 +16,7 @@ Season: "2"
 
 ---  
 > [!tip] Đường dẫn  
->>[<span style='font-weight:bold; color:rgb(255, 191, 0)'><span style='font-weight:bold; color:rgb(255, 160, 51)'>Publishing Folder</span></span>](file:///D:%5CPROJECTS%5CPan&Beri%5C2.%20Production%5CSeason%202%5CSS2Ep03-DuaXeBaBanh%5C11.%20Publishing)  
+>>[<span style='font-weight:bold; color:rgb(255, 160, 51)'>Publishing Folder</span>](file:///D:%5CPROJECTS%5CPan&Beri%5C2.%20Production%5CSeason%202%5CSS2Ep03-DuaXeBaBanh%5C11.%20Publishing)  
 >>[Final Video]
 
 > [!example] Tham khảo  
