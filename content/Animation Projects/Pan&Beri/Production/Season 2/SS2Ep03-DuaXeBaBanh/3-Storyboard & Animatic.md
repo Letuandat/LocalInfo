@@ -5,7 +5,7 @@ Stage: Storyboard & Animatic
 Status: WIP
 Project-Name: Pan&Beri
 Episode-Name: SS2Ep03-DuaXeBaBanh
-Icon: SS2Ep03-DuaXeBaBanh
+Icon: 🐷🚗
 Season: "1"
 ---
 ---  

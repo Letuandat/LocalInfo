@@ -2,7 +2,7 @@
 tags:
   - ProjectSetup
 Project-Name: Pan&Beri
-Icon: Pan&Beri
+Icon: 🐷
 Stage: Concept
 Status: WIP
 ---

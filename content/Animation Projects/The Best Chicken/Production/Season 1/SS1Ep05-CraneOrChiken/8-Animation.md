@@ -4,7 +4,7 @@ tags:
 Stage: Animation
 Project-Name: The Best Chicken
 Episode-Name: SS1Ep05-CraneOrChiken
-Icon: SS1Ep05-CraneOrChiken
+Icon: 🐔🛩
 Status: done
 Season: "1"
 ---

@@ -5,7 +5,7 @@ Stage: Audio Mixing
 Status: Preparing
 Project-Name: The Best Chicken
 Episode-Name: SS1Ep05-CraneOrChiken
-Icon: SS1Ep05-CraneOrChiken
+Icon: 🐔🛩
 Season: "1"
 ---
 ---  

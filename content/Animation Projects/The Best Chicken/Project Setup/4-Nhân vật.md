@@ -2,7 +2,7 @@
 tags:
   - ProjectSetup
 Project-Name: The Best Chicken
-Icon: The Best Chicken
+Icon: 🐔
 Stage: Characters
 Status: WIP
 ---

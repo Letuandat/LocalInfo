@@ -4,7 +4,7 @@ tags:
 Stage: Editing
 Status: WIP
 Project-Name: Pan&Beri
-Episode-Name: SS2Ep02-NgaVaoLongDat
+Icon: 🐷🚧
 Icon: SS2Ep02-NgaVaoLongDat
 Season: "1"
 ---

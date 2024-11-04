@@ -5,7 +5,7 @@ Stage: Rigging
 Status: WIP
 Project-Name: Pan&Beri
 Episode-Name: SS2Ep02-NgaVaoLongDat
-Icon: SS2Ep02-NgaVaoLongDat
+Icon: 🐷🚧
 Season: "1"
 ---
 ---  

@@ -6,7 +6,7 @@ Stage: Kịch Bản
 Status: WIP
 Project-Name: The Best Chicken
 Episode-Name: SS2Ep02-ConGaLongBong
-Icon: SS2Ep02-ConGaLongBong
+Icon: 🐔📚
 Season: "1"
 ---
 ---  

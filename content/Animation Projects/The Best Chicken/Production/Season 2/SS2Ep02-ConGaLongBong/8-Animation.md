@@ -4,7 +4,7 @@ tags:
 Stage: Animation
 Project-Name: The Best Chicken
 Episode-Name: SS2Ep02-ConGaLongBong
-Icon: SS2Ep02-ConGaLongBong
+Icon: 🐔📚
 Status: WIP
 Season: "2"
 ---

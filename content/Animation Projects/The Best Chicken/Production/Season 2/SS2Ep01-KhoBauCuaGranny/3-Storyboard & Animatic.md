@@ -5,7 +5,7 @@ Stage: Storyboard & Animatic
 Status: WIP
 Project-Name: The Best Chicken
 Episode-Name: SS2Ep01-KhoBauCuaGranny
-Icon: SS2Ep01-KhoBauCuaGranny
+Icon: 🐔🌱
 Season: "2"
 ---
 ---  

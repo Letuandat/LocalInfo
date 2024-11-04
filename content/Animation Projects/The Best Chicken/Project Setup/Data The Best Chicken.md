@@ -2,7 +2,7 @@
 tags:
   - ProjectSetup
 Project-Name: The Best Chicken
-Icon: The Best Chicken
+Icon: 🐔
 Stage: Data Managing
 Status: WIP
 ---
@@ -16,10 +16,10 @@ Status: WIP
 ---  
 > [!question]- Hướng dẫn  
 >*  Tải về và giải nén ở ổ D (Thủ công)  
->*  Hoặc có thể sử dụng phần mềm [<span style='font-weight:bold; color:rgb(160, 76, 225)'>CreateUpdateData.exe</span>](file:///D:%5CApps%5CCreateUpdateData%5CCreateUpdateData.exe) để update tự động
+>*  Hoặc có thể sử dụng phần mềm [<span style='font-weight:bold; color:rgb(160, 76, 225)'><span style='font-weight:bold; color:rgb(160, 76, 225)'>CreateUpdateData.exe</span></span>](file:///D:%5CApps%5CCreateUpdateData%5CCreateUpdateData.exe) để update tự động
 
 > [!example] Các bản tải về  
-> > [!quote]- 2024-10-29  
+> > [!quote]- [<span style='font-weight:bold; color:rgb(0, 176, 240)'>Setup TheBestChicken 2024-11-04</span>](https://drive.google.com/file/d/17Q2pf2bmM95lc5XjeJDMZSiDemIOZZal/view?usp=drive_link)  
 > 
 
 ---
