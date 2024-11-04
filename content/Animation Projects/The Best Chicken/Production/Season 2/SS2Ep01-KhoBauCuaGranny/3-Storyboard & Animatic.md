@@ -6,7 +6,7 @@ Status: WIP
 Project-Name: The Best Chicken
 Episode-Name: SS2Ep01-KhoBauCuaGranny
 Icon: SS2Ep01-KhoBauCuaGranny
-Season: "1"
+Season: "2"
 ---
 ---  
 ## <span style="font-weight:bold; color:rgb(34, 89, 126)">Storyboard & Animatic - The Best Chicken - SS2Ep01-KhoBauCuaGranny</span> 

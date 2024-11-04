@@ -7,7 +7,7 @@ Status: WIP
 Project-Name: Pan&Beri
 Episode-Name: SS2Ep02-NgaVaoLongDat
 Icon: SS2Ep02-NgaVaoLongDat
-Season: "1"
+Season: "2"
 ---
 ---  
 ## <span style="font-weight:bold; color:rgb(34, 89, 126)">Kịch bản - Pan&Beri - SS2Ep02-NgaVaoLongDat</span> 
