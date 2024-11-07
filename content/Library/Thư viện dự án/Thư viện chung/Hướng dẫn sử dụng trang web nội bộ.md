@@ -1,22 +1,22 @@
 1. <span style="font-weight:bold; color:rgb(0, 112, 192)">Tải Firefox</span>  
-   <span style="font-weight:bold; color:rgb(112, 48, 160)">Link: </span>[<span style='font-weight:bold; color:rgb(0, 176, 240)'>Firefox</span>](https://www.mozilla.org/en-US/firefox/download/thanks/)  
+   <span style="font-weight:bold; color:rgb(112, 48, 160)">Link: </span>[<span style='font-weight:bold; color:rgb(0, 176, 240)'><span style='font-weight:bold; color:rgb(0, 176, 240)'>Firefox</span></span>](https://www.mozilla.org/en-US/firefox/download/thanks/)  
    Tải link trên rồi cài đặt firefox.  
 1. <span style="font-weight:bold; color:rgb(0, 112, 192)">Tải extension # Local Filesystem Links</span>  
-   <span style="font-weight:bold; color:rgb(112, 48, 160)">Link: </span>[<span style='font-weight:bold; color:rgb(0, 176, 240)'>Local Filesystem Links</span>](https://addons.mozilla.org/en-US/firefox/addon/local-filesystem-links/)  
+   <span style="font-weight:bold; color:rgb(112, 48, 160)">Link: </span>[<span style='font-weight:bold; color:rgb(0, 176, 240)'><span style='font-weight:bold; color:rgb(0, 176, 240)'>Local Filesystem Links</span></span>](https://addons.mozilla.org/en-US/firefox/addon/local-filesystem-links/)  
    Tải link trên rồi cài đặt.  
 1. <span style="font-weight:bold; color:rgb(0, 112, 192)">Tải file setup cơ bản</span>  
    Giảm thiểu tối đa các folder trong ổ D  
-   Tải file [<span style='font-weight:bold; color:rgb(0, 176, 240)'>này</span>](https://drive.google.com/file/d/1lBnB9JDTOkZeKNxCyhiAu9ec2fiFm9Sk/view?usp=drive_link) về.  
+   Tải file [<span style='font-weight:bold; color:rgb(0, 176, 240)'><span style='font-weight:bold; color:rgb(0, 176, 240)'>này</span></span>](https://drive.google.com/file/d/1lBnB9JDTOkZeKNxCyhiAu9ec2fiFm9Sk/view?usp=drive_link) về.  
    Giải nén file vừa tải ra ổ D.  
-   Mở folder [<span style='font-weight:bold; color:rgb(255, 160, 51)'>AutoOpenWith</span>](file:///D:%5CApps%5CAutoOpenWith), chuột phải vào file AutoOpenWith.exe chọn Run as Administrator.  
-   Mở lần lượt file [<span style='font-weight:bold; color:rgb(160, 76, 225)'>rwCheck</span>](file:///D:%5CApps%5CAutoOpenWith%5Ctest%5CrwCheck.rw) và file [<span style='font-weight:bold; color:rgb(160, 76, 225)'>rwvCheck</span>](file:///D:%5CApps%5CAutoOpenWith%5Ctest%5CrwvCheck.rwv). Nêu thấy hiển thị hình ảnh là thành công.  
+   Mở folder [<span style='font-weight:bold; color:rgb(255, 191, 0)'><span style='font-weight:bold; color:rgb(255, 160, 51)'>AutoOpenWith</span></span>](file:///D:%5CApps%5CAutoOpenWith), chuột phải vào file AutoOpenWith.exe chọn Run as Administrator.  
+   Mở lần lượt file [<span style='font-weight:bold; color:rgb(160, 76, 225)'><span style='font-weight:bold; color:rgb(160, 76, 225)'>rwCheck</span></span>](file:///D:%5CApps%5CAutoOpenWith%5Ctest%5CrwCheck.rw) và file [<span style='font-weight:bold; color:rgb(160, 76, 225)'><span style='font-weight:bold; color:rgb(160, 76, 225)'>rwvCheck</span></span>](file:///D:%5CApps%5CAutoOpenWith%5Ctest%5CrwvCheck.rwv). Nêu thấy hiển thị hình ảnh là thành công.  
 4. <span style="font-weight:bold; color:rgb(0, 112, 192)">Tải các file Data tương ứng từng dự án tham gia</span>  
    Mỗi dự án sẽ đi kèm với các file Data riêng, được update thường xuyên. Tải về giải nén ở ổ D để sử dụng.  
    Xem danh sách Data tại đây: [[Library/Thư viện dự án/Thư viện chung/Downloadable Data List|Downloadable Data List]]  
    Lưu trữ các file làm việc theo đúng cấu trúc để tiện quản lý, trao đổi các file dữ liệu với các thành viên trong nhóm.  
    Lưu ý: Khi nhận file các file data.zip, mở vào zip để kiểm tra file trước khi giải nén, đề phòng trường hợp trùng tên file mình đang làm, đè lên sẽ bị mất.  
 5. <span style="font-weight:bold; color:rgb(0, 112, 192)">Bàn giao file</span>  
-   Sử dụng phần mềm [<span style='font-weight:bold; color:rgb(160, 76, 225)'>DataPac.exe</span>](file:///D:%5CApps%5CDataPac%5CDataPac.exe) để tạo file zip lưu dữ liệu. Chọn Destination là D:/Update Data (Để nguyên mặc định).  
+   Sử dụng phần mềm [<span style='font-weight:bold; color:rgb(160, 76, 225)'><span style='font-weight:bold; color:rgb(160, 76, 225)'>DataPac.exe</span></span>](file:///D:%5CApps%5CDataPac%5CDataPac.exe) để tạo file zip lưu dữ liệu. Chọn Destination là D:/Update Data (Để nguyên mặc định).  
    Chọn Add Folder/File rồi chọn đường dẫn tới folder hoặc file cần nén. Tiếp tục chọn Add Folder/File để chọn thêm folder hoặc file khác. Sau khi chọn xong ấn nút Create Update File.  
    Nhập tên file Update vào ô nhập hiện ra File update sẽ được tạo ra ở thư mục D:/Update Data. 
    Bàn giao file này cho người khác để khi họ giải nén, file đó đã nằm trong thư mục của nó.  
@@ -28,11 +28,11 @@
    Lưu ý: Nếu thư mục nguồn nặng, chỉ nên Backup theo chu kì tối thiểu là 1 ngày và số lần tối đa là 10. Sau khi hoàn thành công việc với folder này, Tắt Backup, dọn dẹp thư mục backup để giải phóng dung lượng.  
 7. <span style="font-weight:bold; color:rgb(0, 112, 192)">Phần mềm chạy video PotPlayer</span>  
    Không bắt buộc phải tải, có thể sử dụng các chương trình phát video khác nếu thích.  
-   <span style="font-weight:bold; color:rgb(112, 48, 160)">Link tải: </span>[<span style='font-weight:bold; color:rgb(0, 176, 240)'>PotPlayer</span>](https://potplayer.org/en/potplayer-installer.html)  
+   <span style="font-weight:bold; color:rgb(112, 48, 160)">Link tải: </span>[<span style='font-weight:bold; color:rgb(0, 176, 240)'><span style='font-weight:bold; color:rgb(0, 176, 240)'>PotPlayer</span></span>](https://potplayer.org/en/potplayer-installer.html)  
    Ưu điểm:  
    1. Gọn nhẹ, có khả năng chơi phát được video dạng Mp4 và MOV (2 định dạng sử dụng nhiều nhất trong quy trình).  
    2. Có thế xem từng Frame.  
-   3. Khi đi kèm với [<span style='font-weight:bold; color:rgb(0, 176, 240)'>codec</span>](https://files2.codecguide.com/K-Lite_Codec_Pack_1865_Basic.exe) có thể xem được thumbnail các file định dạng MOV. (Khi cài đặt chọn phần mềm phát video và âm thanh mặc định là PotPlayer)  
+   3. Khi đi kèm với [<span style='font-weight:bold; color:rgb(0, 176, 240)'><span style='font-weight:bold; color:rgb(0, 176, 240)'>codec</span></span>](https://files2.codecguide.com/K-Lite_Codec_Pack_1865_Basic.exe) có thể xem được thumbnail các file định dạng MOV. (Khi cài đặt chọn phần mềm phát video và âm thanh mặc định là PotPlayer)  
 8. <span style="font-weight:bold; color:rgb(0, 112, 192)">Script & Keyboard Shortcut moho</span>  
-   <span style="font-weight:bold; color:rgb(112, 48, 160)">Link: </span>[<span style='font-weight:bold; color:rgb(0, 176, 240)'>drive</span>](https://drive.google.com/file/d/1oy05PztTNk3QxMvBNnRB55259hvAqiFN/view?usp=sharing)
+   <span style="font-weight:bold; color:rgb(112, 48, 160)">Link: </span>[<span style='font-weight:bold; color:rgb(0, 176, 240)'><span style='font-weight:bold; color:rgb(0, 176, 240)'>drive</span></span>](https://drive.google.com/file/d/1oy05PztTNk3QxMvBNnRB55259hvAqiFN/view?usp=sharing)
 
