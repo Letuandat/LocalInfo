@@ -17,9 +17,10 @@ Season: "2"
 
 ---  
 > [!tip] Đường dẫn  
->* [<span style='font-weight:bold; color:rgb(160, 76, 225)'>Kịch bản PDF</span>](file:///D:%5CPROJECTS%5CThe%20Best%20Chicken%5C2.%20Production%5CSeason%202%5CSS2Ep02-ConGaLongBong%5C1.%20Kịch%20bản%5CSS2Ep02-ConGaLongBong-Script.pdf)  
->* [<span style='font-weight:bold; color:rgb(160, 76, 225)'>Kịch bản Scrite</span>](file:///D:%5CPROJECTS%5CThe%20Best%20Chicken%5C2.%20Production%5CSeason%202%5CSS2Ep02-ConGaLongBong%5C1.%20Kịch%20bản%5CSS2Ep02-ConGaLongBong.scrite)  
->* [<span style='font-weight:bold; color:rgb(255, 160, 51)'>Folder Kịch bản</span>](file:///D:%5CPROJECTS%5CThe%20Best%20Chicken%5C2.%20Production%5CSeason%202%5CSS2Ep02-ConGaLongBong%5C1.%20Kịch%20bản)
+>* [<span style='font-weight:bold; color:rgb(160, 76, 225)'><span style='font-weight:bold; color:rgb(160, 76, 225)'>Kịch bản PDF</span></span>](file:///D:%5CPROJECTS%5CThe%20Best%20Chicken%5C2.%20Production%5CSeason%202%5CSS2Ep02-ConGaLongBong%5C1.%20Kịch%20bản%5CSS2Ep02-ConGaLongBong-Script.pdf)  
+>* [<span style='font-weight:bold; color:rgb(160, 76, 225)'><span style='font-weight:bold; color:rgb(160, 76, 225)'>Kịch bản Scrite</span></span>](file:///D:%5CPROJECTS%5CThe%20Best%20Chicken%5C2.%20Production%5CSeason%202%5CSS2Ep02-ConGaLongBong%5C1.%20Kịch%20bản%5CSS2Ep02-ConGaLongBong.scrite)  
+>* [<span style='font-weight:bold; color:rgb(255, 191, 0)'><span style='font-weight:bold; color:rgb(255, 160, 51)'>Folder Kịch bản</span></span>](file:///D:%5CPROJECTS%5CThe%20Best%20Chicken%5C2.%20Production%5CSeason%202%5CSS2Ep02-ConGaLongBong%5C1.%20Kịch%20bản)  
+>* [<span style='font-weight:bold; color:rgb(0, 176, 240)'>Link tải kịch bản</span>](https://drive.google.com/file/d/128dTNwoeZ17t1wjr6N1haJVXRiiYhXqF/view?usp=drive_link)
 
 
 > [!example] Xem thêm  
