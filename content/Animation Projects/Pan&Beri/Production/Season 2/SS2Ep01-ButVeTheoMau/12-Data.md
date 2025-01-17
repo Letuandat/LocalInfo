@@ -17,10 +17,11 @@ Season: "2"
 ---  
 > [!question]- Hướng dẫn  
 >*  Tải về và giải nén ở ổ D (Thủ công)  
->*  Hoặc có thể sử dụng phần mềm [<span style='font-weight:bold; color:rgb(160, 76, 225)'>CreateUpdateData.exe</span>](file:///D:%5CApps%5CCreateUpdateData%5CCreateUpdateData.exe) để update tự động
+>*  Hoặc có thể sử dụng phần mềm [<span style='font-weight:bold; color:rgb(160, 76, 225)'><span style='font-weight:bold; color:rgb(160, 76, 225)'><span style='font-weight:bold; color:rgb(160, 76, 225)'>CreateUpdateData.exe</span></span></span>](file:///D:%5CApps%5CCreateUpdateData%5CCreateUpdateData.exe) để update tự động
 
 > [!example] Các bản tải về  
-> > [!quote]- 2024-10-29  
+> > [!quote] [<span style='font-weight:bold; color:rgb(0, 176, 240)'><span style='font-weight:bold; color:rgb(0, 176, 240)'>Bút vẽ theo mẫu base</span></span>](https://drive.google.com/file/d/1tuhvaSlJ2txIaUzH56lGEHYWZ2Sjety8/view?usp=drive_link)
+
 > 
 
 ---

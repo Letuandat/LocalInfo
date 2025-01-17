@@ -2,7 +2,7 @@
 tags:
   - Production
 Stage: Audio Mixing
-Status: Preparing
+Status: WIP
 Project-Name: Pan&Beri
 Episode-Name: SS2Ep01-ButVeTheoMau
 Icon: SS2Ep01-ButVeTheoMau
@@ -17,8 +17,8 @@ Season: "2"
 ---
 
 > [!tip] Đường dẫn  
->* [<span style='font-weight:bold; color:rgb(160, 76, 225)'>File Cubase</span>](file:///D:%5CPROJECTS%5CPan&Beri%5C2.%20Production%5CSeason%202%5CSS2Ep01-ButVeTheoMau%5C10.%20Audio%20Mixing%5CSS2Ep01-ButVeTheoMau.cpr)  
->* [<span style='font-weight:bold; color:rgb(255, 160, 51)'>Audio Mixing Folder</span>](file:///D:%5CPROJECTS%5CPan&Beri%5C2.%20Production%5CSeason%202%5CSS2Ep01-ButVeTheoMau%5C10.%20Audio%20Mixing)  
+>* [<span style='font-weight:bold; color:rgb(160, 76, 225)'><span style='font-weight:bold; color:rgb(160, 76, 225)'>File Cubase</span></span>](file:///D:%5CPROJECTS%5CPan&Beri%5C2.%20Production%5CSeason%202%5CSS2Ep01-ButVeTheoMau%5C10.%20Audio%20Mixing%5CSS2Ep01-ButVeTheoMau.cpr)  
+>* [<span style='font-weight:bold; color:rgb(255, 191, 0)'><span style='font-weight:bold; color:rgb(255, 160, 51)'>Audio Mixing Folder</span></span>](file:///D:%5CPROJECTS%5CPan&Beri%5C2.%20Production%5CSeason%202%5CSS2Ep01-ButVeTheoMau%5C10.%20Audio%20Mixing)  
 
 
 > [!example] Tham khảo  
