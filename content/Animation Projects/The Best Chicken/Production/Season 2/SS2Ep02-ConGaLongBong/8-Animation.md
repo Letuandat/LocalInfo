@@ -40,8 +40,12 @@ Season: "2"
 > 
 
 > [!quote] Ghi chú  
-> > [!warning] Ghi chú 1  
-> 
+> > [!warning] Sửa lần 1
+> > * 005: Vẽ dấu X làm giống như vạch trên lông
+> > * 006: Thay bg bằng abstract bg 7
+> > * 010: Mắt Gae chỉnh cho cân trục mặt, lông mày linh hoạt hơn, Ttung Takk khi khoát tay dùng cả thân chứ ko chỉ mỗi cánh tay. Gae bước đi phải dùng mask che bớt nét mông trước đi.
+
+
 
 ---
 
