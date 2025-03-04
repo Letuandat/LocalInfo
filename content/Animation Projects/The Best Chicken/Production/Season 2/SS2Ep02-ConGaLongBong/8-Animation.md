@@ -43,6 +43,9 @@ Season: "2"
 > > [!warning] Sửa lần 1
 > > * 005: Vẽ dấu X làm giống như vạch trên lông
 > > * 006: Thay bg bằng abstract bg 7
+> > * 007: Scale nhỏ gà lại. 2 động tác cười đầu tiên chỉnh tay cho tự nhiên
+> > * 008: Ngồi đẹp đấy. Nhưng mà cái chân khoanh thì làm hình cuối cho nó xếp cảm giác 3 chiều hơn (bàn chân dưới lộ ra)
+> > *  009: Vỗ mông con chó nảy lên tí
 > > * 010: Mắt Gae chỉnh cho cân trục mặt, lông mày linh hoạt hơn, Ttung Takk khi khoát tay dùng cả thân chứ ko chỉ mỗi cánh tay. Gae bước đi phải dùng mask che bớt nét mông trước đi.
 
 
