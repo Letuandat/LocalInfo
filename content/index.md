@@ -5,14 +5,15 @@ title: Trang chủ
 > [!warning]- Thông báo cập nhật  
 > * Tải các file sau và update 
 > > [!warning] thêm tính năng Flip cho cửa sổ reference 
-> > [<span style='font-weight:bold; color:rgb(0, 176, 240)'><span style='font-weight:bold; color:rgb(0, 176, 240)'><span style='font-weight:bold; color:rgb(0, 176, 240)'>Ref-view update</span></span></span>](https://drive.google.com/file/d/16Kycrs9gA412IULQ8_Hoboq6Fu8Mv7TX/view?usp=drive_link)  
-> >  Mở folder [<span style='font-weight:bold; color:rgb(255, 191, 0)'><span style='font-weight:bold; color:rgb(255, 191, 0)'><span style='font-weight:bold; color:rgb(255, 191, 0)'><span style='font-weight:bold; color:rgb(255, 160, 51)'>AutoOpenWith</span></span></span></span>](file:///D:%5CApps%5CAutoOpenWith), chuột phải vào file AutoOpenWith.exe chọn Run as Administrator.  
-   >Mở lần lượt file [<span style='font-weight:bold; color:rgb(160, 76, 225)'><span style='font-weight:bold; color:rgb(160, 76, 225)'><span style='font-weight:bold; color:rgb(160, 76, 225)'><span style='font-weight:bold; color:rgb(160, 76, 225)'>rwCheck</span></span></span></span>](file:///D:%5CApps%5CAutoOpenWith%5Ctest%5CrwCheck.rw) . Nêu thấy hiển thị hình ảnh có chức năng flip là thành công.  
+> > [<span style='font-weight:bold; color:rgb(0, 176, 240)'><span style='font-weight:bold; color:rgb(0, 176, 240)'><span style='font-weight:bold; color:rgb(0, 176, 240)'><span style='font-weight:bold; color:rgb(0, 176, 240)'>Ref-view update</span></span></span></span>](https://drive.google.com/file/d/16Kycrs9gA412IULQ8_Hoboq6Fu8Mv7TX/view?usp=drive_link)  
+> >  Mở folder [<span style='font-weight:bold; color:rgb(255, 191, 0)'><span style='font-weight:bold; color:rgb(255, 191, 0)'><span style='font-weight:bold; color:rgb(255, 191, 0)'><span style='font-weight:bold; color:rgb(255, 191, 0)'><span style='font-weight:bold; color:rgb(255, 160, 51)'>AutoOpenWith</span></span></span></span></span>](file:///D:%5CApps%5CAutoOpenWith), chuột phải vào file AutoOpenWith.exe chọn Run as Administrator.  
+   >Mở lần lượt file [<span style='font-weight:bold; color:rgb(160, 76, 225)'><span style='font-weight:bold; color:rgb(160, 76, 225)'><span style='font-weight:bold; color:rgb(160, 76, 225)'><span style='font-weight:bold; color:rgb(160, 76, 225)'><span style='font-weight:bold; color:rgb(160, 76, 225)'>rwCheck</span></span></span></span></span>](file:///D:%5CApps%5CAutoOpenWith%5Ctest%5CrwCheck.rw) . Nêu thấy hiển thị hình ảnh có chức năng flip là thành công.  
+   >* [<span style='font-weight:bold; color:rgb(0, 176, 240)'>SmartBackup v2.0</span>](https://drive.google.com/file/d/1GDPBUS_SHdShRdlvMCmBkpOKjdbhgLWW/view?usp=drive_link)
 
 
 > [!todo] Bàn giao file  
-> * [<span style='font-weight:bold; color:rgb(0, 176, 240)'>Báo cáo hàng tuần</span>](https://letuandat.github.io/WeeklyReport/)  
-> * [<span style='font-weight:bold; color:rgb(160, 76, 225)'><span style='font-weight:bold; color:rgb(160, 76, 225)'><span style='font-weight:bold; color:rgb(160, 76, 225)'><span style='font-weight:bold; color:rgb(160, 76, 225)'><span style='font-weight:bold; color:rgb(160, 76, 225)'>Giao nhận file</span></span></span></span></span>](file:///D:%5CApps%5CDataPac%5CDataPac.exe)  
+> * [<span style='font-weight:bold; color:rgb(0, 176, 240)'><span style='font-weight:bold; color:rgb(0, 176, 240)'>Báo cáo hàng tuần</span></span>](https://letuandat.github.io/WeeklyReport/)  
+> * [<span style='font-weight:bold; color:rgb(160, 76, 225)'><span style='font-weight:bold; color:rgb(160, 76, 225)'><span style='font-weight:bold; color:rgb(160, 76, 225)'><span style='font-weight:bold; color:rgb(160, 76, 225)'><span style='font-weight:bold; color:rgb(160, 76, 225)'><span style='font-weight:bold; color:rgb(160, 76, 225)'>Giao nhận file</span></span></span></span></span></span>](file:///D:%5CApps%5CDataPac%5CDataPac.exe)  
 > 
 
 
