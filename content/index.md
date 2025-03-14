@@ -5,9 +5,15 @@ title: Trang chủ
 > [!warning]- Thông báo cập nhật  
 > * Tải các file sau và update 
 > > [!warning] thêm tính năng Flip cho cửa sổ reference 
-> > [<span style='font-weight:bold; color:rgb(0, 176, 240)'>Ref-view update</span>](https://drive.google.com/file/d/16Kycrs9gA412IULQ8_Hoboq6Fu8Mv7TX/view?usp=drive_link)  
-> >  Mở folder [<span style='font-weight:bold; color:rgb(255, 191, 0)'><span style='font-weight:bold; color:rgb(255, 160, 51)'>AutoOpenWith</span></span>](file:///D:%5CApps%5CAutoOpenWith), chuột phải vào file AutoOpenWith.exe chọn Run as Administrator.  
-   >Mở lần lượt file [<span style='font-weight:bold; color:rgb(160, 76, 225)'><span style='font-weight:bold; color:rgb(160, 76, 225)'>rwCheck</span></span>](file:///D:%5CApps%5CAutoOpenWith%5Ctest%5CrwCheck.rw) . Nêu thấy hiển thị hình ảnh có chức năng flip là thành công.  
+> > [<span style='font-weight:bold; color:rgb(0, 176, 240)'><span style='font-weight:bold; color:rgb(0, 176, 240)'><span style='font-weight:bold; color:rgb(0, 176, 240)'>Ref-view update</span></span></span>](https://drive.google.com/file/d/16Kycrs9gA412IULQ8_Hoboq6Fu8Mv7TX/view?usp=drive_link)  
+> >  Mở folder [<span style='font-weight:bold; color:rgb(255, 191, 0)'><span style='font-weight:bold; color:rgb(255, 191, 0)'><span style='font-weight:bold; color:rgb(255, 191, 0)'><span style='font-weight:bold; color:rgb(255, 160, 51)'>AutoOpenWith</span></span></span></span>](file:///D:%5CApps%5CAutoOpenWith), chuột phải vào file AutoOpenWith.exe chọn Run as Administrator.  
+   >Mở lần lượt file [<span style='font-weight:bold; color:rgb(160, 76, 225)'><span style='font-weight:bold; color:rgb(160, 76, 225)'><span style='font-weight:bold; color:rgb(160, 76, 225)'><span style='font-weight:bold; color:rgb(160, 76, 225)'>rwCheck</span></span></span></span>](file:///D:%5CApps%5CAutoOpenWith%5Ctest%5CrwCheck.rw) . Nêu thấy hiển thị hình ảnh có chức năng flip là thành công.  
+
+
+> [!todo] Bàn giao file  
+> * [<span style='font-weight:bold; color:rgb(0, 176, 240)'>Báo cáo hàng tuần</span>](https://letuandat.github.io/WeeklyReport/)  
+> * [<span style='font-weight:bold; color:rgb(160, 76, 225)'><span style='font-weight:bold; color:rgb(160, 76, 225)'><span style='font-weight:bold; color:rgb(160, 76, 225)'><span style='font-weight:bold; color:rgb(160, 76, 225)'><span style='font-weight:bold; color:rgb(160, 76, 225)'>Giao nhận file</span></span></span></span></span>](file:///D:%5CApps%5CDataPac%5CDataPac.exe)  
+> 
 
 
 > [!example]- Hướng dẫn sử dụng  
@@ -21,10 +27,6 @@ title: Trang chủ
 > * <span style='font-weight:bold; color:rgb(34, 89, 126)'><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-screen-share"><path d="M13 3H4a2 2 0 0 0-2 2v10a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2v-3"/><path d="M8 21h8"/><path d="M12 17v4"/><path d="m17 8 5-5"/><path d="M17 3h5v5"/></svg></span> [[Library/Thư viện dự án/Thư viện chung/Làm hậu kì|Làm Hậu kì]]  
 > * [[Library/Thư viện dự án/Thư viện chung/Xem các sản phẩm đã hoàn thiện|Xem các sản phẩm đã hoàn thiện]]
 
-
-> [!todo] Bàn giao file  
-> * [<span style='font-weight:bold; color:rgb(160, 76, 225)'><span style='font-weight:bold; color:rgb(160, 76, 225)'><span style='font-weight:bold; color:rgb(160, 76, 225)'>DataPac.exe</span></span></span>](file:///D:%5CApps%5CDataPac%5CDataPac.exe)  
-> 
 
 > [!success] Datalist  
 > * [[Library/Thư viện dự án/Thư viện chung/Downloadable Data List|Data list]]
